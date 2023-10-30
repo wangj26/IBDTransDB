@@ -1,0 +1,107 @@
+type,gene
+chemokine,CCL1
+chemokine,CCL2
+chemokine,CCL3
+chemokine,CCL3L1
+chemokine,CCL3L3
+chemokine,CCL4
+chemokine,CCL4L1
+chemokine,CCL4L2
+chemokine,CCL5
+chemokine,CCL7
+chemokine,CCL8
+chemokine,CCL11
+chemokine,CCL13
+chemokine,CCL14
+chemokine,CCL15
+chemokine,CCL16
+chemokine,CCL17
+chemokine,CCL18
+chemokine,CCL19
+chemokine,CCL20
+chemokine,CCL21
+chemokine,CCL22
+chemokine,CCL23
+chemokine,CCL24
+chemokine,CCL25
+chemokine,CCL26
+chemokine,CCL27
+chemokine,CCL28
+chemokine,CXCL1
+chemokine,CXCL2
+chemokine,CXCL3
+chemokine,CXCL5
+chemokine,CXCL6
+chemokine,CXCL8
+chemokine,CXCL9
+chemokine,CXCL10
+chemokine,CXCL11
+chemokine,CXCL12
+chemokine,CXCL13
+chemokine,CXCL14
+chemokine,CXCL16
+chemokine,CXCL17
+chemokine,CX3CL1
+chemokine,XCL1
+chemokine,XCL2
+interleukin,IL1A
+interleukin,IL1B
+interleukin,IL1F10
+interleukin,IL1RN
+interleukin,IL2
+interleukin,IL3
+interleukin,IL4
+interleukin,IL5
+interleukin,IL6
+interleukin,IL7
+interleukin,CXCL8
+interleukin,IL9
+interleukin,IL10
+interleukin,IL11
+interleukin,IL12A
+interleukin,IL12B
+interleukin,IL13
+interleukin,IL15
+interleukin,IL16
+interleukin,IL17A
+interleukin,IL17B
+interleukin,IL17C
+interleukin,IL17D
+interleukin,IL17F
+interleukin,IL18
+interleukin,IL19
+interleukin,IL20
+interleukin,IL21
+interleukin,IL22
+interleukin,IL23A
+interleukin,IL24
+interleukin,IL25
+interleukin,IL26
+interleukin,IL27
+interleukin,IL31
+interleukin,IL32
+interleukin,IL33
+interleukin,IL34
+interleukin,IL36A
+interleukin,IL36B
+interleukin,IL36G
+interleukin,IL36RN
+interleukin,IL37
+TNF super family,TNF
+TNF super family,LTA
+TNF super family,LTB
+TNF super family,TNFSF4
+TNF super family,CD40LG
+TNF super family,FASLG
+TNF super family,CD70
+TNF super family,TNFSF8
+TNF super family,TNFSF9
+TNF super family,TNFSF10
+TNF super family,TNFSF11
+TNF super family,TNFSF12
+TNF super family,TNFSF13
+TNF super family,TNFSF13B
+TNF super family,TNFSF14
+TNF super family,TNFSF15
+TNF super family,TNFSF18
+TNF super family,EDA

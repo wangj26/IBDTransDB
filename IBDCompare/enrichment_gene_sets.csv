@@ -1,0 +1,1726 @@
+database,description
+pathway_KEGG,NF-kappa B signaling pathway
+pathway_KEGG,mTOR signaling pathway
+pathway_KEGG,Cytokine-cytokine receptor interaction
+pathway_KEGG,Phospholipase D signaling pathway
+pathway_KEGG,Glycerophospholipid metabolism
+pathway_KEGG,Sulfur metabolism
+pathway_KEGG,Synthesis and degradation of ketone bodies
+pathway_KEGG,Salmonella infection
+pathway_KEGG,Type I diabetes mellitus
+pathway_KEGG,Folate biosynthesis
+pathway_KEGG,Thyroid cancer
+pathway_KEGG,alpha-Linolenic acid metabolism
+pathway_KEGG,Vascular smooth muscle contraction
+pathway_KEGG,Inositol phosphate metabolism
+pathway_KEGG,Linoleic acid metabolism
+pathway_KEGG,Phosphonate and phosphinate metabolism
+pathway_KEGG,Oxidative phosphorylation
+pathway_KEGG,Fatty acid elongation
+pathway_KEGG,Glycosaminoglycan biosynthesis
+pathway_KEGG,Adherens junction
+pathway_KEGG,Citrate cycle (TCA cycle)
+pathway_KEGG,Mucin type O-glycan biosynthesis
+pathway_KEGG,Carbon metabolism
+pathway_KEGG,Neurotrophin signaling pathway
+pathway_KEGG,Peroxisome
+pathway_KEGG,Aminoacyl-tRNA biosynthesis
+pathway_KEGG,Nitrogen metabolism
+pathway_KEGG,Hedgehog signaling pathway
+pathway_KEGG,One carbon pool by folate
+pathway_KEGG,Non-alcoholic fatty liver disease (NAFLD)
+pathway_KEGG,Lysine degradation
+pathway_KEGG,Glycosaminoglycan degradation
+pathway_KEGG,Phosphatidylinositol signaling system
+pathway_KEGG,Tyrosine metabolism
+pathway_KEGG,Retinol metabolism
+pathway_KEGG,Epstein-Barr virus infection
+pathway_KEGG,Graft-versus-host disease
+pathway_KEGG,Glycosaminoglycan biosynthesis
+pathway_KEGG,Hematopoietic cell lineage
+pathway_KEGG,SNARE interactions in vesicular transport
+pathway_KEGG,Arginine biosynthesis
+pathway_KEGG,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+pathway_KEGG,Proximal tubule bicarbonate reclamation
+pathway_KEGG,Glycosphingolipid biosynthesis
+pathway_KEGG,Biosynthesis of unsaturated fatty acids
+pathway_KEGG,cGMP-PKG signaling pathway
+pathway_KEGG,EGFR tyrosine kinase inhibitor resistance
+pathway_KEGG,Arachidonic acid metabolism
+pathway_KEGG,Type II diabetes mellitus
+pathway_KEGG,PPAR signaling pathway
+pathway_KEGG,Cardiac muscle contraction
+pathway_KEGG,Endocytosis
+pathway_KEGG,Platelet activation
+pathway_KEGG,Complement and coagulation cascades
+pathway_KEGG,Drug metabolism
+pathway_KEGG,Tryptophan metabolism
+pathway_KEGG,Vitamin digestion and absorption
+pathway_KEGG,Retrograde endocannabinoid signaling
+pathway_KEGG,Glyoxylate and dicarboxylate metabolism
+pathway_KEGG,Fatty acid metabolism
+pathway_KEGG,Autoimmune thyroid disease
+pathway_KEGG,GnRH signaling pathway
+pathway_KEGG,Propanoate metabolism
+pathway_KEGG,Shigellosis
+pathway_KEGG,Protein digestion and absorption
+pathway_KEGG,ECM-receptor interaction
+pathway_KEGG,TNF signaling pathway
+pathway_KEGG,FoxO signaling pathway
+pathway_KEGG,Ubiquinone and other terpenoid-quinone biosynthesis
+pathway_KEGG,Regulation of lipolysis in adipocytes
+pathway_KEGG,Chemical carcinogenesis
+pathway_KEGG,Rap1 signaling pathway
+pathway_KEGG,Glutathione metabolism
+pathway_KEGG,Bacterial invasion of epithelial cells
+pathway_KEGG,Carbohydrate digestion and absorption
+pathway_KEGG,N-Glycan biosynthesis
+pathway_KEGG,Basal cell carcinoma
+pathway_KEGG,Progesterone-mediated oocyte maturation
+pathway_KEGG,Cholesterol metabolism
+pathway_KEGG,HIF-1 signaling pathway
+pathway_KEGG,Adrenergic signaling in cardiomyocytes
+pathway_KEGG,Th17 cell differentiation
+pathway_KEGG,Pentose and glucuronate interconversions
+pathway_KEGG,Fc epsilon RI signaling pathway
+pathway_KEGG,Biosynthesis of amino acids
+pathway_KEGG,Renal cell carcinoma
+pathway_KEGG,IL-17 signaling pathway
+pathway_KEGG,T cell receptor signaling pathway
+pathway_KEGG,ErbB signaling pathway
+pathway_KEGG,Sphingolipid signaling pathway
+pathway_KEGG,Glycosphingolipid biosynthesis
+pathway_KEGG,Sulfur relay system
+pathway_KEGG,Huntington disease
+pathway_KEGG,Pancreatic secretion
+pathway_KEGG,2-Oxocarboxylic acid metabolism
+pathway_KEGG,Renin-angiotensin system
+pathway_KEGG,Alzheimer disease
+pathway_KEGG,Regulation of actin cytoskeleton
+pathway_KEGG,Asthma
+pathway_KEGG,Systemic lupus erythematosus
+pathway_KEGG,Tight junction
+pathway_KEGG,Long-term depression
+pathway_KEGG,Fluid shear stress and atherosclerosis
+pathway_KEGG,Transcriptional misregulation in cancer
+pathway_KEGG,Aldosterone synthesis and secretion
+pathway_KEGG,B cell receptor signaling pathway
+pathway_KEGG,Ether lipid metabolism
+pathway_KEGG,Parkinson disease
+pathway_KEGG,Viral carcinogenesis
+pathway_KEGG,Endometrial cancer
+pathway_KEGG,Th1 and Th2 cell differentiation
+pathway_KEGG,Cell cycle
+pathway_KEGG,Steroid hormone biosynthesis
+pathway_KEGG,Human immunodeficiency virus 1 infection
+pathway_KEGG,Cholinergic synapse
+pathway_KEGG,Sphingolipid metabolism
+pathway_KEGG,Fat digestion and absorption
+pathway_KEGG,Circadian rhythm
+pathway_KEGG,Wnt signaling pathway
+pathway_KEGG,Protein processing in endoplasmic reticulum
+pathway_KEGG,cAMP signaling pathway
+pathway_KEGG,Pentose phosphate pathway
+pathway_KEGG,VEGF signaling pathway
+pathway_KEGG,Ras signaling pathway
+pathway_KEGG,Cortisol synthesis and secretion
+pathway_KEGG,Thyroid hormone signaling pathway
+pathway_KEGG,Small cell lung cancer
+pathway_KEGG,Primary immunodeficiency
+pathway_KEGG,Rheumatoid arthritis
+pathway_KEGG,MAPK signaling pathway
+pathway_KEGG,Viral myocarditis
+pathway_KEGG,Inflammatory bowel disease (IBD)
+pathway_KEGG,Signaling pathways regulating pluripotency of stem cells
+pathway_KEGG,Phagosome
+pathway_KEGG,Human T-cell leukemia virus 1 infection
+pathway_KEGG,Cellular senescence
+pathway_KEGG,Adipocytokine signaling pathway
+pathway_KEGG,Endocrine and other factor-regulated calcium reabsorption
+pathway_KEGG,Hypertrophic cardiomyopathy (HCM)
+pathway_KEGG,Amoebiasis
+pathway_KEGG,Prolactin signaling pathway
+pathway_KEGG,Hepatocellular carcinoma
+pathway_KEGG,Neuroactive ligand-receptor interaction
+pathway_KEGG,Vasopressin-regulated water reabsorption
+pathway_KEGG,Notch signaling pathway
+pathway_KEGG,Hepatitis C
+pathway_KEGG,RIG-I-like receptor signaling pathway
+pathway_KEGG,Relaxin signaling pathway
+pathway_KEGG,Apoptosis
+pathway_KEGG,Glutamatergic synapse
+pathway_KEGG,Drug metabolism
+pathway_KEGG,Amino sugar and nucleotide sugar metabolism
+pathway_KEGG,Glucagon signaling pathway
+pathway_KEGG,Central carbon metabolism in cancer
+pathway_KEGG,Focal adhesion
+pathway_KEGG,Leukocyte transendothelial migration
+pathway_KEGG,RNA degradation
+pathway_KEGG,"Parathyroid hormone synthesis, secretion and action"
+pathway_KEGG,Insulin secretion
+pathway_KEGG,Metabolism of xenobiotics by cytochrome P450
+pathway_KEGG,Kaposi sarcoma-associated herpesvirus infection
+pathway_KEGG,Chemokine signaling pathway
+pathway_KEGG,African trypanosomiasis
+pathway_KEGG,Human cytomegalovirus infection
+pathway_KEGG,Colorectal cancer
+pathway_KEGG,Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+pathway_KEGG,Long-term potentiation
+pathway_KEGG,Thiamine metabolism
+pathway_KEGG,Osteoclast differentiation
+pathway_KEGG,Calcium signaling pathway
+pathway_KEGG,Gap junction
+pathway_KEGG,Glycerolipid metabolism
+pathway_KEGG,Apelin signaling pathway
+pathway_KEGG,Hippo signaling pathway
+pathway_KEGG,Dilated cardiomyopathy (DCM)
+pathway_KEGG,Legionellosis
+pathway_KEGG,Glycosaminoglycan biosynthesis
+pathway_KEGG,Measles
+pathway_KEGG,Phototransduction
+pathway_KEGG,Amyotrophic lateral sclerosis (ALS)
+pathway_KEGG,Prostate cancer
+pathway_KEGG,Antigen processing and presentation
+pathway_KEGG,TGF-beta signaling pathway
+pathway_KEGG,Gastric cancer
+pathway_KEGG,Nicotinate and nicotinamide metabolism
+pathway_KEGG,Pathogenic Escherichia coli infection
+pathway_KEGG,Pertussis
+pathway_KEGG,Oxytocin signaling pathway
+pathway_KEGG,Proteoglycans in cancer
+pathway_KEGG,RNA polymerase
+pathway_KEGG,Non-small cell lung cancer
+pathway_KEGG,Endocrine resistance
+pathway_KEGG,Breast cancer
+pathway_KEGG,Taste transduction
+pathway_KEGG,Herpes simplex infection
+pathway_KEGG,Fatty acid biosynthesis
+pathway_KEGG,Selenocompound metabolism
+pathway_KEGG,Mannose type O-glycan biosynthesis
+pathway_KEGG,Galactose metabolism
+pathway_KEGG,Chagas disease (American trypanosomiasis)
+pathway_KEGG,Axon guidance
+pathway_KEGG,Glycolysis / Gluconeogenesis
+pathway_KEGG,beta-Alanine metabolism
+pathway_KEGG,Acute myeloid leukemia
+pathway_KEGG,PI3K-Akt signaling pathway
+pathway_KEGG,Pathways in cancer
+pathway_KEGG,Human papillomavirus infection
+pathway_KEGG,JAK-STAT signaling pathway
+pathway_KEGG,Synaptic vesicle cycle
+pathway_KEGG,Influenza A
+pathway_KEGG,Cushing syndrome
+pathway_KEGG,Dopaminergic synapse
+pathway_KEGG,Leishmaniasis
+pathway_KEGG,Non-homologous end-joining
+pathway_KEGG,Epithelial cell signaling in Helicobacter pylori infection
+pathway_KEGG,Serotonergic synapse
+pathway_KEGG,Toxoplasmosis
+pathway_KEGG,Pantothenate and CoA biosynthesis
+pathway_KEGG,Tuberculosis
+pathway_KEGG,Porphyrin and chlorophyll metabolism
+pathway_KEGG,Bile secretion
+pathway_KEGG,MicroRNAs in cancer
+pathway_KEGG,Mineral absorption
+pathway_KEGG,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+pathway_KEGG,Renin secretion
+pathway_KEGG,Glycosphingolipid biosynthesis
+pathway_KEGG,Fructose and mannose metabolism
+pathway_KEGG,Gastric acid secretion
+pathway_KEGG,NOD-like receptor signaling pathway
+pathway_KEGG,Thyroid hormone synthesis
+pathway_KEGG,AGE-RAGE signaling pathway in diabetic complications
+pathway_KEGG,Histidine metabolism
+pathway_KEGG,Toll-like receptor signaling pathway
+pathway_KEGG,Natural killer cell mediated cytotoxicity
+pathway_KEGG,Platinum drug resistance
+pathway_KEGG,Necroptosis
+pathway_KEGG,C-type lectin receptor signaling pathway
+pathway_KEGG,Spliceosome
+pathway_KEGG,Chronic myeloid leukemia
+pathway_KEGG,Hepatitis B
+pathway_KEGG,Salivary secretion
+pathway_KEGG,Antifolate resistance
+pathway_KEGG,Estrogen signaling pathway
+pathway_KEGG,Other glycan degradation
+pathway_KEGG,Lysosome
+pathway_KEGG,Taurine and hypotaurine metabolism
+pathway_KEGG,Melanoma
+pathway_KEGG,Purine metabolism
+pathway_KEGG,Phenylalanine metabolism
+pathway_KEGG,Bladder cancer
+pathway_KEGG,Arginine and proline metabolism
+pathway_KEGG,Glioma
+pathway_KEGG,Ferroptosis
+pathway_KEGG,Melanogenesis
+pathway_KEGG,Morphine addiction
+pathway_KEGG,Alcoholism
+pathway_KEGG,RNA transport
+pathway_KEGG,ABC transporters
+pathway_KEGG,Starch and sucrose metabolism
+pathway_KEGG,Inflammatory mediator regulation of TRP channels
+pathway_KEGG,Ovarian steroidogenesis
+pathway_KEGG,Riboflavin metabolism
+pathway_KEGG,Oocyte meiosis
+pathway_KEGG,Primary bile acid biosynthesis
+pathway_KEGG,Collecting duct acid secretion
+pathway_KEGG,"Alanine, aspartate and glutamate metabolism"
+pathway_KEGG,Nucleotide excision repair
+pathway_KEGG,Vibrio cholerae infection
+pathway_KEGG,Pancreatic cancer
+pathway_KEGG,Cocaine addiction
+pathway_KEGG,Amphetamine addiction
+pathway_KEGG,Ubiquitin mediated proteolysis
+pathway_KEGG,Ascorbate and aldarate metabolism
+pathway_KEGG,GABAergic synapse
+pathway_KEGG,Cytosolic DNA-sensing pathway
+pathway_KEGG,Protein export
+pathway_KEGG,Circadian entrainment
+pathway_KEGG,Other types of O-glycan biosynthesis
+pathway_KEGG,mRNA surveillance pathway
+pathway_KEGG,Nicotine addiction
+pathway_KEGG,Homologous recombination
+pathway_KEGG,Mismatch repair
+pathway_KEGG,Terpenoid backbone biosynthesis
+pathway_KEGG,Intestinal immune network for IgA production
+pathway_KEGG,Insulin resistance
+pathway_KEGG,Choline metabolism in cancer
+pathway_KEGG,Pyruvate metabolism
+pathway_KEGG,"Valine, leucine and isoleucine degradation"
+pathway_KEGG,Butanoate metabolism
+pathway_KEGG,Autophagy
+pathway_KEGG,AMPK signaling pathway
+pathway_KEGG,Malaria
+pathway_KEGG,Thermogenesis
+pathway_KEGG,p53 signaling pathway
+pathway_KEGG,Autophagy
+pathway_KEGG,Mitophagy
+pathway_KEGG,Cell adhesion molecules (CAMs)
+pathway_KEGG,"Glycine, serine and threonine metabolism"
+pathway_KEGG,Metabolic pathways
+pathway_KEGG,Steroid biosynthesis
+pathway_KEGG,Fatty acid degradation
+pathway_KEGG,Fc gamma R-mediated phagocytosis
+pathway_KEGG,Cysteine and methionine metabolism
+pathway_KEGG,Longevity regulating pathway
+pathway_KEGG,Insulin signaling pathway
+pathway_KEGG,Longevity regulating pathway
+pathway_KEGG,Aldosterone-regulated sodium reabsorption
+pathway_KEGG,Apoptosis
+pathway_KEGG,Proteasome
+pathway_KEGG,Allograft rejection
+pathway_KEGG,Staphylococcus aureus infection
+pathway_Reactome,Collagen degradation
+pathway_Reactome,Assembly of collagen fibrils and other multimeric structures
+pathway_Reactome,Chemokine receptors bind chemokines
+pathway_Reactome,Collagen chain trimerization
+pathway_Reactome,Activation of gene expression by SREBF (SREBP)
+pathway_Reactome,Cholesterol biosynthesis
+pathway_Reactome,TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway
+pathway_Reactome,Collagen formation
+pathway_Reactome,Elastic fibre formation
+pathway_Reactome,Molecules associated with elastic fibres
+pathway_Reactome,Generation of second messenger molecules
+pathway_Reactome,Collagen biosynthesis and modifying enzymes
+pathway_Reactome,Activation of Matrix Metalloproteinases
+pathway_Reactome,Fatty acyl-CoA biosynthesis
+pathway_Reactome,Extracellular matrix organization
+pathway_Reactome,Branched-chain amino acid catabolism
+pathway_Reactome,Cytosolic sulfonation of small molecules
+pathway_Reactome,Degradation of the extracellular matrix
+pathway_Reactome,Glyoxylate metabolism and glycine degradation
+pathway_Reactome,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+pathway_Reactome,Regulation of cholesterol biosynthesis by SREBP (SREBF)
+pathway_Reactome,Respiratory electron transport
+pathway_Reactome,Complex I biogenesis
+pathway_Reactome,Fatty acid metabolism
+pathway_Reactome,Sulfur amino acid metabolism
+pathway_Reactome,Translocation of ZAP-70 to Immunological synapse
+pathway_Reactome,Syndecan interactions
+pathway_Reactome,TNFs bind their physiological receptors
+pathway_Reactome,RUNX3 regulates WNT signaling
+pathway_Reactome,Mitochondrial Fatty Acid Beta-Oxidation
+pathway_Reactome,Metabolism of lipids
+pathway_Reactome,Diseases of metabolism
+pathway_Reactome,Metabolism of amino acids and derivatives
+pathway_Reactome,Scavenging by Class A Receptors
+pathway_Reactome,The citric acid (TCA) cycle and respiratory electron transport
+pathway_Reactome,Integration of energy metabolism
+pathway_Reactome,Transport of connexons to the plasma membrane
+pathway_Reactome,Crosslinking of collagen fibrils
+pathway_Reactome,Synthesis of PC
+pathway_Reactome,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+pathway_Reactome,Energy dependent regulation of mTOR by LKB1-AMPK
+pathway_Reactome,Glycerophospholipid biosynthesis
+pathway_Reactome,Signaling by BRAF and RAF fusions
+pathway_Reactome,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+pathway_Reactome,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+pathway_Reactome,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism
+pathway_Reactome,alpha-linolenic acid (ALA) metabolism
+pathway_Reactome,Phospholipid metabolism
+pathway_Reactome,ChREBP activates metabolic gene expression
+pathway_Reactome,Regulation of PTEN stability and activity
+pathway_Reactome,Regulation of Hypoxia-inducible Factor (HIF) by oxygen
+pathway_Reactome,Cellular response to hypoxia
+pathway_Reactome,Metabolism
+pathway_Reactome,Metabolism of steroids
+pathway_Reactome,Sphingolipid de novo biosynthesis
+pathway_Reactome,Diseases of carbohydrate metabolism
+pathway_Reactome,Macroautophagy
+pathway_Reactome,RNF mutants show enhanced WNT signaling and proliferation
+pathway_Reactome,PI3K events in ERBB2 signaling
+pathway_Reactome,Integrin cell surface interactions
+pathway_Reactome,RUNX3 Regulates Immune Response and Cell Migration
+pathway_Reactome,Synthesis of PIPs at the late endosome membrane
+pathway_Reactome,Signaling by ERBB2
+pathway_Reactome,Mitochondrial translation
+pathway_Reactome,Defects in vitamin and cofactor metabolism
+pathway_Reactome,Phase II - Conjugation of compounds
+pathway_Reactome,Constitutive Signaling by AKT1 E17K in Cancer
+pathway_Reactome,Mitochondrial translation elongation
+pathway_Reactome,PI3K Cascade
+pathway_Reactome,Degradation of cysteine and homocysteine
+pathway_Reactome,Mitochondrial translation termination
+pathway_Reactome,Signaling by NTRKs
+pathway_Reactome,"Metabolism of ingested SeMet, Sec, MeSec into H2Se"
+pathway_Reactome,Urea cycle
+pathway_Reactome,Signaling by moderate kinase activity BRAF mutants
+pathway_Reactome,Paradoxical activation of RAF signaling by kinase inactive BRAF
+pathway_Reactome,Mitochondrial translation initiation
+pathway_Reactome,Biotin transport and metabolism
+pathway_Reactome,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+pathway_Reactome,Ketone body metabolism
+pathway_Reactome,Aflatoxin activation and detoxification
+pathway_Reactome,PI-3K cascade:FGFR1
+pathway_Reactome,MECP2 regulates neuronal receptors and channels
+pathway_Reactome,Cargo recognition for clathrin-mediated endocytosis
+pathway_Reactome,Linoleic acid (LA) metabolism
+pathway_Reactome,Signaling by high-kinase activity BRAF mutants
+pathway_Reactome,Rho GTPase cycle
+pathway_Reactome,Sema4D in semaphorin signaling
+pathway_Reactome,Synthesis of Ketone Bodies
+pathway_Reactome,Acyl chain remodelling of PI
+pathway_Reactome,Oncogenic MAPK signaling
+pathway_Reactome,Synthesis of PIPs at the Golgi membrane
+pathway_Reactome,Asymmetric localization of PCP proteins
+pathway_Reactome,Biological oxidations
+pathway_Reactome,Clathrin-mediated endocytosis
+pathway_Reactome,Acyl chain remodeling of DAG and TAG
+pathway_Reactome,RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)
+pathway_Reactome,Binding of TCF/LEF:CTNNB1 to target gene promoters
+pathway_Reactome,Phosphorylation of CD3 and TCR zeta chains
+pathway_Reactome,Diseases associated with N-glycosylation of proteins
+pathway_Reactome,Extrinsic Pathway of Fibrin Clot Formation
+pathway_Reactome,Regulation of ornithine decarboxylase (ODC)
+pathway_Reactome,Organic anion transporters
+pathway_Reactome,Relaxin receptors
+pathway_Reactome,tRNA Aminoacylation
+pathway_Reactome,AKT phosphorylates targets in the nucleus
+pathway_Reactome,mitochondrial fatty acid beta-oxidation of saturated fatty acids
+pathway_Reactome,GAB1 signalosome
+pathway_Reactome,Synthesis of very long-chain fatty acyl-CoAs
+pathway_Reactome,Transport and synthesis of PAPS
+pathway_Reactome,Regulation of Apoptosis
+pathway_Reactome,mTOR signalling
+pathway_Reactome,MAPK1 (ERK2) activation
+pathway_Reactome,Signaling by FGFR4 in disease
+pathway_Reactome,AMPK inhibits chREBP transcriptional activation activity
+pathway_Reactome,Regulation of necroptotic cell death
+pathway_Reactome,Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+pathway_Reactome,Insulin receptor signalling cascade
+pathway_Reactome,Signaling by NTRK1 (TRKA)
+pathway_Reactome,IRS-mediated signalling
+pathway_Reactome,Butyrophilin (BTN) family interactions
+pathway_Reactome,VEGFA-VEGFR2 Pathway
+pathway_Reactome,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest
+pathway_Reactome,Mitochondrial tRNA aminoacylation
+pathway_Reactome,MAPK3 (ERK1) activation
+pathway_Reactome,Pyruvate metabolism and Citric Acid (TCA) cycle
+pathway_Reactome,Formyl peptide receptors bind formyl peptides and many other ligands
+pathway_Reactome,Ubiquitin-dependent degradation of Cyclin D1
+pathway_Reactome,Ubiquitin-dependent degradation of Cyclin D
+pathway_Reactome,WNT mediated activation of DVL
+pathway_Reactome,Activated NTRK2 signals through PI3K
+pathway_Reactome,Degradation of AXIN
+pathway_Reactome,Choline catabolism
+pathway_Reactome,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+pathway_Reactome,Metabolism of folate and pterines
+pathway_Reactome,CDC6 association with the ORC:origin complex
+pathway_Reactome,Signaling by VEGF
+pathway_Reactome,Metabolism of polyamines
+pathway_Reactome,Sphingolipid metabolism
+pathway_Reactome,Beta-oxidation of very long chain fatty acids
+pathway_Reactome,Cross-presentation of soluble exogenous antigens (endosomes)
+pathway_Reactome,Synthesis of glycosylphosphatidylinositol (GPI)
+pathway_Reactome,Signaling by RAS mutants
+pathway_Reactome,Disassembly of the destruction complex and recruitment of AXIN to the membrane
+pathway_Reactome,Notch-HLH transcription pathway
+pathway_Reactome,Citric acid cycle (TCA cycle)
+pathway_Reactome,Binding and Uptake of Ligands by Scavenger Receptors
+pathway_Reactome,NOSTRIN mediated eNOS trafficking
+pathway_Reactome,RNA Polymerase III Transcription Termination
+pathway_Reactome,PD-1 signaling
+pathway_Reactome,Neutrophil degranulation
+pathway_Reactome,RSK activation
+pathway_Reactome,Prefoldin mediated transfer of substrate  to CCT/TriC
+pathway_Reactome,PI-3K cascade:FGFR4
+pathway_Reactome,Sema4D mediated inhibition of cell attachment and migration
+pathway_Reactome,Detoxification of Reactive Oxygen Species
+pathway_Reactome,Post-translational protein phosphorylation
+pathway_Reactome,CREB phosphorylation through the activation of Ras
+pathway_Reactome,Regulation of TNFR1 signaling
+pathway_Reactome,Import of palmitoyl-CoA into the mitochondrial matrix
+pathway_Reactome,Platelet sensitization by LDL
+pathway_Reactome,RIPK1-mediated regulated necrosis
+pathway_Reactome,Regulated Necrosis
+pathway_Reactome,Signaling by WNT in cancer
+pathway_Reactome,Peroxisomal lipid metabolism
+pathway_Reactome,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids
+pathway_Reactome,Acetylcholine regulates insulin secretion
+pathway_Reactome,RNA Polymerase III Transcription Initiation From Type 2 Promoter
+pathway_Reactome,Golgi Associated Vesicle Biogenesis
+pathway_Reactome,Metabolic disorders of biological oxidation enzymes
+pathway_Reactome,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA
+pathway_Reactome,trans-Golgi Network Vesicle Budding
+pathway_Reactome,Clathrin derived vesicle budding
+pathway_Reactome,Pre-NOTCH Processing in the Endoplasmic Reticulum
+pathway_Reactome,Defects in biotin (Btn) metabolism
+pathway_Reactome,Metabolism of porphyrins
+pathway_Reactome,Diseases of signal transduction
+pathway_Reactome,Defective HLCS causes multiple carboxylase deficiency
+pathway_Reactome,IRS-related events triggered by IGF1R
+pathway_Reactome,TNFR2 non-canonical NF-kB pathway
+pathway_Reactome,G alpha (12/13) signalling events
+pathway_Reactome,Regulation of activated PAK-2p34 by proteasome mediated degradation
+pathway_Reactome,Erythropoietin activates Phosphoinositide-3-kinase (PI3K)
+pathway_Reactome,Muscle contraction
+pathway_Reactome,RUNX1 regulates transcription of genes involved in differentiation of keratinocytes
+pathway_Reactome,Glutathione conjugation
+pathway_Reactome,RAF activation
+pathway_Reactome,Interleukin-1 signaling
+pathway_Reactome,RNA Polymerase III Transcription
+pathway_Reactome,RNA Polymerase III Abortive And Retractive Initiation
+pathway_Reactome,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+pathway_Reactome,Signaling by NOTCH4
+pathway_Reactome,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+pathway_Reactome,RNA Polymerase III Transcription Initiation From Type 1 Promoter
+pathway_Reactome,Constitutive Signaling by EGFRvIII
+pathway_Reactome,Signaling by EGFRvIII in Cancer
+pathway_Reactome,Muscarinic acetylcholine receptors
+pathway_Reactome,Formation of xylulose-5-phosphate
+pathway_Reactome,IRS activation
+pathway_Reactome,Regulation of mRNA stability by proteins that bind AU-rich elements
+pathway_Reactome,Signaling by Insulin receptor
+pathway_Reactome,Metabolism of water-soluble vitamins and cofactors
+pathway_Reactome,Acyl chain remodelling of PS
+pathway_Reactome,Regulation of PTEN mRNA translation
+pathway_Reactome,Regulation of gene expression by Hypoxia-inducible Factor
+pathway_Reactome,IGF1R signaling cascade
+pathway_Reactome,Recycling of eIF2:GDP
+pathway_Reactome,Acyl chain remodelling of PC
+pathway_Reactome,Sema4D induced cell migration and growth-cone collapse
+pathway_Reactome,Vpu mediated degradation of CD4
+pathway_Reactome,HDL assembly
+pathway_Reactome,Amine-derived hormones
+pathway_Reactome,Nuclear Events (kinase and transcription factor activation)
+pathway_Reactome,Interleukin-1 family signaling
+pathway_Reactome,VEGFR2 mediated cell proliferation
+pathway_Reactome,Mucopolysaccharidoses
+pathway_Reactome,UCH proteinases
+pathway_Reactome,Effects of PIP2 hydrolysis
+pathway_Reactome,PI Metabolism
+pathway_Reactome,Regulation of FZD by ubiquitination
+pathway_Reactome,Negative regulation of NOTCH4 signaling
+pathway_Reactome,Intracellular signaling by second messengers
+pathway_Reactome,Defective LFNG causes SCDO3
+pathway_Reactome,Defects in cobalamin (B12) metabolism
+pathway_Reactome,AUF1 (hnRNP D0) binds and destabilizes mRNA
+pathway_Reactome,Vif-mediated degradation of APOBEC3G
+pathway_Reactome,Semaphorin interactions
+pathway_Reactome,Interleukin-6 signaling
+pathway_Reactome,TNF signaling
+pathway_Reactome,Autodegradation of Cdh1 by Cdh1:APC/C
+pathway_Reactome,NOTCH4 Intracellular Domain Regulates Transcription
+pathway_Reactome,Downregulation of ERBB2 signaling
+pathway_Reactome,SHC1 events in ERBB2 signaling
+pathway_Reactome,Autodegradation of the E3 ubiquitin ligase COP1
+pathway_Reactome,Synthesis of Lipoxins (LX)
+pathway_Reactome,Signaling by MST1
+pathway_Reactome,TP53 Regulates Metabolic Genes
+pathway_Reactome,Neurotransmitter release cycle
+pathway_Reactome,SCF-beta-TrCP mediated degradation of Emi1
+pathway_Reactome,RNA Polymerase III Transcription Initiation
+pathway_Reactome,Acyl chain remodelling of PG
+pathway_Reactome,Protein localization
+pathway_Reactome,Gastrin-CREB signalling pathway via PKC and MAPK
+pathway_Reactome,Lysine catabolism
+pathway_Reactome,MAPK targets/ Nuclear events mediated by MAP kinases
+pathway_Reactome,NOTCH3 Intracellular Domain Regulates Transcription
+pathway_Reactome,ERK/MAPK targets
+pathway_Reactome,Mitochondrial Uncoupling Proteins
+pathway_Reactome,The fatty acid cycling model
+pathway_Reactome,The proton buffering model
+pathway_Reactome,Mitochondrial protein import
+pathway_Reactome,MAP2K and MAPK activation
+pathway_Reactome,VEGF ligand-receptor interactions
+pathway_Reactome,VEGF binds to VEGFR leading to receptor dimerization
+pathway_Reactome,TYSND1 cleaves peroxisomal proteins
+pathway_Reactome,RNA Polymerase III Transcription Initiation From Type 3 Promoter
+pathway_Reactome,Synthesis of 5-eicosatetraenoic acids
+pathway_Reactome,Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+pathway_Reactome,Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant
+pathway_Reactome,Physiological factors
+pathway_Reactome,Synthesis of GDP-mannose
+pathway_Reactome,CDT1 association with the CDC6:ORC:origin complex
+pathway_Reactome,Regulation of RAS by GAPs
+pathway_Reactome,Transport of organic anions
+pathway_Reactome,PIP3 activates AKT signaling
+pathway_Reactome,Signaling by FGFR3 fusions in cancer
+pathway_Reactome,Signaling by Rho GTPases
+pathway_Reactome,Downstream signal transduction
+pathway_Reactome,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells
+pathway_Reactome,Plasma lipoprotein assembly
+pathway_Reactome,Response to metal ions
+pathway_Reactome,PCP/CE pathway
+pathway_Reactome,Diseases associated with glycosylation precursor biosynthesis
+pathway_Reactome,Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding
+pathway_Reactome,Alternative complement activation
+pathway_Reactome,Neurotoxicity of clostridium toxins
+pathway_Reactome,Signaling by NTRK3 (TRKC)
+pathway_Reactome,RNA Polymerase III Chain Elongation
+pathway_Reactome,CREB phosphorylation
+pathway_Reactome,SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+pathway_Reactome,Reversible hydration of carbon dioxide
+pathway_Reactome,Activation of NMDA receptors and postsynaptic events
+pathway_Reactome,RHO GTPases activate CIT
+pathway_Reactome,APC/C:Cdc20 mediated degradation of Securin
+pathway_Reactome,Striated Muscle Contraction
+pathway_Reactome,Hh mutants that don't undergo autocatalytic processing are degraded by ERAD
+pathway_Reactome,Free fatty acids regulate insulin secretion
+pathway_Reactome,Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+pathway_Reactome,ER-Phagosome pathway
+pathway_Reactome,Synthesis of PIPs at the plasma membrane
+pathway_Reactome,Signaling by EGFR
+pathway_Reactome,Cellular responses to external stimuli
+pathway_Reactome,Tie2 Signaling
+pathway_Reactome,PI3K/AKT activation
+pathway_Reactome,Gap junction assembly
+pathway_Reactome,Signaling by TGF-beta Receptor Complex
+pathway_Reactome,Synthesis of PIPs at the ER membrane
+pathway_Reactome,PTEN Regulation
+pathway_Reactome,Phosphate bond hydrolysis by NUDT proteins
+pathway_Reactome,Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+pathway_Reactome,Metallothioneins bind metals
+pathway_Reactome,ECM proteoglycans
+pathway_Reactome,Formation of the cornified envelope
+pathway_Reactome,MAPK6/MAPK4 signaling
+pathway_Reactome,Regulation of IFNG signaling
+pathway_Reactome,Transmission across Chemical Synapses
+pathway_Reactome,Phase I - Functionalization of compounds
+pathway_Reactome,Cytosolic tRNA aminoacylation
+pathway_Reactome,Lysosome Vesicle Biogenesis
+pathway_Reactome,Acyl chain remodelling of PE
+pathway_Reactome,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+pathway_Reactome,RUNX1 regulates transcription of genes involved in WNT signaling
+pathway_Reactome,TNFR1-induced NFkappaB signaling pathway
+pathway_Reactome,Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+pathway_Reactome,Signaling by EGFR in Cancer
+pathway_Reactome,Signaling by Ligand-Responsive EGFR Variants in Cancer
+pathway_Reactome,ABC transporter disorders
+pathway_Reactome,Gluconeogenesis
+pathway_Reactome,Complement cascade
+pathway_Reactome,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation"
+pathway_Reactome,Arachidonate production from DAG
+pathway_Reactome,"Synthesis, secretion, and deacylation of Ghrelin"
+pathway_Reactome,mRNA Editing: C to U Conversion
+pathway_Reactome,Formation of the Editosome
+pathway_Reactome,"Platelet activation, signaling and aggregation"
+pathway_Reactome,HS-GAG biosynthesis
+pathway_Reactome,VEGFR2 mediated vascular permeability
+pathway_Reactome,Purine salvage
+pathway_Reactome,Prostanoid ligand receptors
+pathway_Reactome,Hydrolysis of LPC
+pathway_Reactome,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+pathway_Reactome,RHO GTPases Activate WASPs and WAVEs
+pathway_Reactome,Glycerophospholipid catabolism
+pathway_Reactome,Mitotic Telophase/Cytokinesis
+pathway_Reactome,Cardiac conduction
+pathway_Reactome,Recruitment of mitotic centrosome proteins and complexes
+pathway_Reactome,Centrosome maturation
+pathway_Reactome,CS/DS degradation
+pathway_Reactome,Metabolism of vitamins and cofactors
+pathway_Reactome,Fcgamma receptor (FCGR) dependent phagocytosis
+pathway_Reactome,ERBB2 Regulates Cell Motility
+pathway_Reactome,Negative feedback regulation of MAPK pathway
+pathway_Reactome,G2/M Transition
+pathway_Reactome,YAP1- and WWTR1 (TAZ)-stimulated gene expression
+pathway_Reactome,Membrane Trafficking
+pathway_Reactome,Signaling by FGFR4
+pathway_Reactome,Downstream signaling of activated FGFR1
+pathway_Reactome,"Transport of vitamins, nucleosides, and related molecules"
+pathway_Reactome,Rab regulation of trafficking
+pathway_Reactome,Degradation of DVL
+pathway_Reactome,Regulation of insulin secretion
+pathway_Reactome,rRNA processing in the mitochondrion
+pathway_Reactome,Hyaluronan uptake and degradation
+pathway_Reactome,HSF1-dependent transactivation
+pathway_Reactome,Trafficking of GluR2-containing AMPA receptors
+pathway_Reactome,Post NMDA receptor activation events
+pathway_Reactome,NRAGE signals death through JNK
+pathway_Reactome,Downstream signaling of activated FGFR4
+pathway_Reactome,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint
+pathway_Reactome,NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10
+pathway_Reactome,Signaling by Receptor Tyrosine Kinases
+pathway_Reactome,Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+pathway_Reactome,ADP signalling through P2Y purinoceptor 1
+pathway_Reactome,Presynaptic depolarization and calcium channel opening
+pathway_Reactome,Signal attenuation
+pathway_Reactome,Antigen processing: Ubiquitination & Proteasome degradation
+pathway_Reactome,Purine ribonucleoside monophosphate biosynthesis
+pathway_Reactome,Eicosanoids
+pathway_Reactome,Interleukin-27 signaling
+pathway_Reactome,Cohesin Loading onto Chromatin
+pathway_Reactome,mRNA Editing
+pathway_Reactome,Signaling by NTRK2 (TRKB)
+pathway_Reactome,Laminin interactions
+pathway_Reactome,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models
+pathway_Reactome,Neurodegenerative Diseases
+pathway_Reactome,Beta-oxidation of pristanoyl-CoA
+pathway_Reactome,MAPK family signaling cascades
+pathway_Reactome,Pregnenolone biosynthesis
+pathway_Reactome,Regulation of RUNX2 expression and activity
+pathway_Reactome,RAB GEFs exchange GTP for GDP on RABs
+pathway_Reactome,Signaling by NOTCH3
+pathway_Reactome,Toll Like Receptor TLR1:TLR2 Cascade
+pathway_Reactome,Toll Like Receptor 2 (TLR2) Cascade
+pathway_Reactome,SUMOylation of intracellular receptors
+pathway_Reactome,MAPK1/MAPK3 signaling
+pathway_Reactome,Neurotransmitter clearance
+pathway_Reactome,Signal amplification
+pathway_Reactome,Phenylalanine and tyrosine catabolism
+pathway_Reactome,NOTCH4 Activation and Transmission of Signal to the Nucleus
+pathway_Reactome,MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+pathway_Reactome,Toll Like Receptor TLR6:TLR2 Cascade
+pathway_Reactome,Interleukin-17 signaling
+pathway_Reactome,MET activates PI3K/AKT signaling
+pathway_Reactome,Disease
+pathway_Reactome,Diseases associated with surfactant metabolism
+pathway_Reactome,Rap1 signalling
+pathway_Reactome,APC/C:Cdc20 mediated degradation of mitotic proteins
+pathway_Reactome,Phase 0 - rapid depolarisation
+pathway_Reactome,Pyruvate metabolism
+pathway_Reactome,Ficolins bind to repetitive carbohydrate structures on the target cell surface
+pathway_Reactome,Signaling by Leptin
+pathway_Reactome,G alpha (q) signalling events
+pathway_Reactome,WNT5A-dependent internalization of FZD4
+pathway_Reactome,Signaling by Erythropoietin
+pathway_Reactome,Intra-Golgi traffic
+pathway_Reactome,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+pathway_Reactome,Signaling by TGF-beta family members
+pathway_Reactome,Conjugation of salicylate with glycine
+pathway_Reactome,Pentose phosphate pathway
+pathway_Reactome,Interleukin-18 signaling
+pathway_Reactome,Activated NTRK3 signals through PI3K
+pathway_Reactome,PI3K events in ERBB4 signaling
+pathway_Reactome,Loss of Nlp from mitotic centrosomes
+pathway_Reactome,Loss of proteins required for interphase microtubule organization from the centrosome
+pathway_Reactome,PI-3K cascade:FGFR3
+pathway_Reactome,Downregulation of TGF-beta receptor signaling
+pathway_Reactome,AURKA Activation by TPX2
+pathway_Reactome,RAF/MAP kinase cascade
+pathway_Reactome,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA
+pathway_Reactome,AKT phosphorylates targets in the cytosol
+pathway_Reactome,Metabolism of nitric oxide
+pathway_Reactome,eNOS activation and regulation
+pathway_Reactome,Coenzyme A biosynthesis
+pathway_Reactome,Nephrin family interactions
+pathway_Reactome,Regulation of beta-cell development
+pathway_Reactome,Signaling by FGFR1
+pathway_Reactome,Cellular responses to stress
+pathway_Reactome,Deadenylation of mRNA
+pathway_Reactome,CDK-mediated phosphorylation and removal of Cdc6
+pathway_Reactome,Vesicle-mediated transport
+pathway_Reactome,Cyclin A:Cdk2-associated events at S phase entry
+pathway_Reactome,Budding and maturation of HIV virion
+pathway_Reactome,Selenoamino acid metabolism
+pathway_Reactome,Disinhibition of SNARE formation
+pathway_Reactome,Lysosphingolipid and LPA receptors
+pathway_Reactome,Regulation of APC/C activators between G1/S and early anaphase
+pathway_Reactome,Toll Like Receptor 10 (TLR10) Cascade
+pathway_Reactome,Toll Like Receptor 5 (TLR5) Cascade
+pathway_Reactome,MyD88 cascade initiated on plasma membrane
+pathway_Reactome,Eicosanoid ligand-binding receptors
+pathway_Reactome,Thrombin signalling through proteinase activated receptors (PARs)
+pathway_Reactome,Beta oxidation of octanoyl-CoA to hexanoyl-CoA
+pathway_Reactome,Digestion
+pathway_Reactome,Cytosolic iron-sulfur cluster assembly
+pathway_Reactome,PI3K/AKT Signaling in Cancer
+pathway_Reactome,Regulation of PTEN localization
+pathway_Reactome,GLI3 is processed to GLI3R by the proteasome
+pathway_Reactome,HATs acetylate histones
+pathway_Reactome,Pre-NOTCH Processing in Golgi
+pathway_Reactome,Amplification of signal from the kinetochores
+pathway_Reactome,Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal
+pathway_Reactome,Export of Viral Ribonucleoproteins from Nucleus
+pathway_Reactome,RMTs methylate histone arginines
+pathway_Reactome,Activation of the TFAP2 (AP-2) family of transcription factors
+pathway_Reactome,Transport of fatty acids
+pathway_Reactome,Antiviral mechanism by IFN-stimulated genes
+pathway_Reactome,tRNA processing in the nucleus
+pathway_Reactome,Signalling to RAS
+pathway_Reactome,Glucagon signaling in metabolic regulation
+pathway_Reactome,Unfolded Protein Response (UPR)
+pathway_Reactome,Netrin mediated repulsion signals
+pathway_Reactome,Activated NTRK2 signals through FYN
+pathway_Reactome,Activated NTRK3 signals through RAS
+pathway_Reactome,mRNA 3'-end processing
+pathway_Reactome,Negative epigenetic regulation of rRNA expression
+pathway_Reactome,Removal of the Flap Intermediate from the C-strand
+pathway_Reactome,InlB-mediated entry of Listeria monocytogenes into host cell
+pathway_Reactome,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+pathway_Reactome,Calmodulin induced events
+pathway_Reactome,CaM pathway
+pathway_Reactome,Triglyceride catabolism
+pathway_Reactome,"Defective CHST14 causes EDS, musculocontractural type"
+pathway_Reactome,Global Genome Nucleotide Excision Repair (GG-NER)
+pathway_Reactome,Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding
+pathway_Reactome,MECP2 regulates transcription of neuronal ligands
+pathway_Reactome,Myoclonic epilepsy of Lafora
+pathway_Reactome,NoRC negatively regulates rRNA expression
+pathway_Reactome,Mitotic G1-G1/S phases
+pathway_Reactome,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+pathway_Reactome,TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+pathway_Reactome,Dual Incision in GG-NER
+pathway_Reactome,Insulin receptor recycling
+pathway_Reactome,Synthesis of wybutosine at G37 of tRNA(Phe)
+pathway_Reactome,TRP channels
+pathway_Reactome,The activation of arylsulfatases
+pathway_Reactome,Metal sequestration by antimicrobial proteins
+pathway_Reactome,Plasma lipoprotein remodeling
+pathway_Reactome,Biosynthesis of EPA-derived SPMs
+pathway_Reactome,Nuclear Receptor transcription pathway
+pathway_Reactome,TRAF6 mediated IRF7 activation
+pathway_Reactome,Amino acid transport across the plasma membrane
+pathway_Reactome,Integration of provirus
+pathway_Reactome,Sensing of DNA Double Strand Breaks
+pathway_Reactome,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+pathway_Reactome,ABC transporters in lipid homeostasis
+pathway_Reactome,Processive synthesis on the C-strand of the telomere
+pathway_Reactome,Condensation of Prometaphase Chromosomes
+pathway_Reactome,"ROS, RNS production in phagocytes"
+pathway_Reactome,Mitotic Spindle Checkpoint
+pathway_Reactome,Eukaryotic Translation Initiation
+pathway_Reactome,Cap-dependent Translation Initiation
+pathway_Reactome,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA"
+pathway_Reactome,Phosphorylation of the APC/C
+pathway_Reactome,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template
+pathway_Reactome,SHC-mediated cascade:FGFR1
+pathway_Reactome,PKA activation
+pathway_Reactome,Activation of NOXA and translocation to mitochondria
+pathway_Reactome,Glutathione synthesis and recycling
+pathway_Reactome,Synthesis of PA
+pathway_Reactome,GRB7 events in ERBB2 signaling
+pathway_Reactome,Hh mutants abrogate ligand secretion
+pathway_Reactome,Uptake and function of diphtheria toxin
+pathway_Reactome,Heparan sulfate/heparin (HS-GAG) metabolism
+pathway_Reactome,Initial triggering of complement
+pathway_Reactome,Degradation of beta-catenin by the destruction complex
+pathway_Reactome,Abacavir transport and metabolism
+pathway_Reactome,Transport of nucleotide sugars
+pathway_Reactome,Receptor-type tyrosine-protein phosphatases
+pathway_Reactome,Purine catabolism
+pathway_Reactome,Ub-specific processing proteases
+pathway_Reactome,TCF dependent signaling in response to WNT
+pathway_Reactome,Stimuli-sensing channels
+pathway_Reactome,HuR (ELAVL1) binds and stabilizes mRNA
+pathway_Reactome,Transcriptional regulation of white adipocyte differentiation
+pathway_Reactome,Tandem pore domain potassium channels
+pathway_Reactome,Glycosphingolipid metabolism
+pathway_Reactome,Processing of Capped Intronless Pre-mRNA
+pathway_Reactome,Norepinephrine Neurotransmitter Release Cycle
+pathway_Reactome,Neuronal System
+pathway_Reactome,Biosynthesis of E-series 18(S)-resolvins
+pathway_Reactome,Opsins
+pathway_Reactome,Toll Like Receptor 9 (TLR9) Cascade
+pathway_Reactome,Other semaphorin interactions
+pathway_Reactome,Activation of caspases through apoptosome-mediated cleavage
+pathway_Reactome,Cytochrome c-mediated apoptotic response
+pathway_Reactome,CD22 mediated BCR regulation
+pathway_Reactome,Signaling by activated point mutants of FGFR3
+pathway_Reactome,FGFR3 mutant receptor activation
+pathway_Reactome,BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
+pathway_Reactome,Interleukin-4 and Interleukin-13 signaling
+pathway_Reactome,Innate Immune System
+pathway_Reactome,Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)
+pathway_Reactome,Regulation of TP53 Activity through Methylation
+pathway_Reactome,NOTCH1 Intracellular Domain Regulates Transcription
+pathway_Reactome,RUNX1 regulates transcription of genes involved in BCR signaling
+pathway_Reactome,FGFR1b ligand binding and activation
+pathway_Reactome,HS-GAG degradation
+pathway_Reactome,Negative regulation of MAPK pathway
+pathway_Reactome,Interleukin-23 signaling
+pathway_Reactome,Deubiquitination
+pathway_Reactome,Amino Acid conjugation
+pathway_Reactome,Conjugation of carboxylic acids
+pathway_Reactome,Peptide ligand-binding receptors
+pathway_Reactome,RUNX1 regulates estrogen receptor mediated transcription
+pathway_Reactome,Defective GALNT12 causes colorectal cancer 1 (CRCS1)
+pathway_Reactome,N-glycan antennae elongation in the medial/trans-Golgi
+pathway_Reactome,p75NTR negatively regulates cell cycle via SC1
+pathway_Reactome,Proton-coupled monocarboxylate transport
+pathway_Reactome,NADE modulates death signalling
+pathway_Reactome,FGFR3 ligand binding and activation
+pathway_Reactome,FGFR3c ligand binding and activation
+pathway_Reactome,Hedgehog ligand biogenesis
+pathway_Reactome,Signaling by FGFR
+pathway_Reactome,Advanced glycosylation endproduct receptor signaling
+pathway_Reactome,SUMOylation of transcription factors
+pathway_Reactome,Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+pathway_Reactome,Orc1 removal from chromatin
+pathway_Reactome,CASP8 activity is inhibited
+pathway_Reactome,Regulation by c-FLIP
+pathway_Reactome,Dimerization of procaspase-8
+pathway_Reactome,Defective CFTR causes cystic fibrosis
+pathway_Reactome,FGFR3b ligand binding and activation
+pathway_Reactome,Activated point mutants of FGFR2
+pathway_Reactome,Signaling by MET
+pathway_Reactome,Initiation of Nuclear Envelope Reformation
+pathway_Reactome,Nuclear Envelope Reassembly
+pathway_Reactome,Serotonin receptors
+pathway_Reactome,Activated NTRK2 signals through FRS2 and FRS3
+pathway_Reactome,Interleukin-37 signaling
+pathway_Reactome,PTK6 Regulates Proteins Involved in RNA Processing
+pathway_Reactome,Apoptotic factor-mediated response
+pathway_Reactome,Gap junction trafficking
+pathway_Reactome,TICAM1-dependent activation of IRF3/IRF7
+pathway_Reactome,Synthesis of 12-eicosatetraenoic acid derivatives
+pathway_Reactome,L1CAM interactions
+pathway_Reactome,Role of LAT2/NTAL/LAB on calcium mobilization
+pathway_Reactome,Interleukin-10 signaling
+pathway_Reactome,Antigen processing-Cross presentation
+pathway_Reactome,Regulation of Complement cascade
+pathway_Reactome,Mitochondrial calcium ion transport
+pathway_Reactome,Regulation of KIT signaling
+pathway_Reactome,Neddylation
+pathway_Reactome,Ion channel transport
+pathway_Reactome,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+pathway_Reactome,CREB phosphorylation through the activation of CaMKII
+pathway_Reactome,Metabolism of steroid hormones
+pathway_Reactome,Assembly of the pre-replicative complex
+pathway_Reactome,Peroxisomal protein import
+pathway_Reactome,Class I MHC mediated antigen processing & presentation
+pathway_Reactome,ROBO receptors bind AKAP5
+pathway_Reactome,SCF(Skp2)-mediated degradation of p27/p21
+pathway_Reactome,Keratinization
+pathway_Reactome,Toxicity of botulinum toxin type D (BoNT/D)
+pathway_Reactome,Toxicity of botulinum toxin type F (BoNT/F)
+pathway_Reactome,APC/C-mediated degradation of cell cycle proteins
+pathway_Reactome,Regulation of mitotic cell cycle
+pathway_Reactome,TP53 Regulates Transcription of Cell Death Genes
+pathway_Reactome,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release
+pathway_Reactome,Bicarbonate transporters
+pathway_Reactome,Signaling by FGFR3
+pathway_Reactome,Synthesis of PE
+pathway_Reactome,CD28 dependent Vav1 pathway
+pathway_Reactome,Prolactin receptor signaling
+pathway_Reactome,G2/M DNA replication checkpoint
+pathway_Reactome,Metabolism of Angiotensinogen to Angiotensins
+pathway_Reactome,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+pathway_Reactome,p53-Independent DNA Damage Response
+pathway_Reactome,p53-Independent G1/S DNA damage checkpoint
+pathway_Reactome,Triglyceride biosynthesis
+pathway_Reactome,Signaling by NOTCH1
+pathway_Reactome,RHO GTPases activate IQGAPs
+pathway_Reactome,Negative regulation of the PI3K/AKT network
+pathway_Reactome,Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane
+pathway_Reactome,Activated NTRK2 signals through CDK5
+pathway_Reactome,RET signaling
+pathway_Reactome,HSP90 chaperone cycle for steroid hormone receptors (SHR)
+pathway_Reactome,Synthesis of substrates in N-glycan biosythesis
+pathway_Reactome,Nucleotide salvage
+pathway_Reactome,TGF-beta receptor signaling activates SMADs
+pathway_Reactome,Integrin alphaIIb beta3 signaling
+pathway_Reactome,Integrin signaling
+pathway_Reactome,Erythrocytes take up carbon dioxide and release oxygen
+pathway_Reactome,O2/CO2 exchange in erythrocytes
+pathway_Reactome,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+pathway_Reactome,"AXIN mutants destabilize the destruction complex, activating WNT signaling"
+pathway_Reactome,truncated APC mutants destabilize the destruction complex
+pathway_Reactome,AMER1 mutants destabilize the destruction complex
+pathway_Reactome,APC truncation mutants have impaired AXIN binding
+pathway_Reactome,AXIN missense mutants destabilize the destruction complex
+pathway_Reactome,Truncations of AMER1 destabilize the destruction complex
+pathway_Reactome,Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+pathway_Reactome,PPARA activates gene expression
+pathway_Reactome,Dopamine Neurotransmitter Release Cycle
+pathway_Reactome,FCERI mediated NF-kB activation
+pathway_Reactome,Ion homeostasis
+pathway_Reactome,BBSome-mediated cargo-targeting to cilium
+pathway_Reactome,Apoptotic cleavage of cellular proteins
+pathway_Reactome,Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)
+pathway_Reactome,MET activates RAP1 and RAC1
+pathway_Reactome,Hyaluronan metabolism
+pathway_Reactome,Fc epsilon receptor (FCERI) signaling
+pathway_Reactome,p75 NTR receptor-mediated signalling
+pathway_Reactome,Abacavir transmembrane transport
+pathway_Reactome,Sialic acid metabolism
+pathway_Reactome,Hemostasis
+pathway_Reactome,Role of phospholipids in phagocytosis
+pathway_Reactome,TP53 Regulates Transcription of Caspase Activators and Caspases
+pathway_Reactome,Activation of the AP-1 family of transcription factors
+pathway_Reactome,Golgi Cisternae Pericentriolar Stack Reorganization
+pathway_Reactome,RHO GTPases activate KTN1
+pathway_Reactome,EGFR downregulation
+pathway_Reactome,Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)
+pathway_Reactome,Smooth Muscle Contraction
+pathway_Reactome,Clearance of Nuclear Envelope Membranes from Chromatin
+pathway_Reactome,Chondroitin sulfate biosynthesis
+pathway_Reactome,Noncanonical activation of NOTCH3
+pathway_Reactome,Sulfide oxidation to sulfate
+pathway_Reactome,Adrenoceptors
+pathway_Reactome,Disorders of transmembrane transporters
+pathway_Reactome,Vitamin B5 (pantothenate) metabolism
+pathway_Reactome,Signaling by NOTCH1 PEST Domain Mutants in Cancer
+pathway_Reactome,Signaling by NOTCH1 in Cancer
+pathway_Reactome,Constitutive Signaling by NOTCH1 PEST Domain Mutants
+pathway_Reactome,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+pathway_Reactome,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+pathway_Reactome,Erythrocytes take up oxygen and release carbon dioxide
+pathway_Reactome,ERBB2 Activates PTK6 Signaling
+pathway_Reactome,RHO GTPases activate PKNs
+pathway_Reactome,Downstream signaling of activated FGFR3
+pathway_Reactome,Trafficking and processing of endosomal TLR
+pathway_Reactome,Dectin-1 mediated noncanonical NF-kB signaling
+pathway_Reactome,VLDLR internalisation and degradation
+pathway_Reactome,Cyclin E associated events during G1/S transition
+pathway_Reactome,RUNX3 regulates NOTCH signaling
+pathway_Reactome,Neurofascin interactions
+pathway_Reactome,Toll Like Receptor 7/8 (TLR7/8) Cascade
+pathway_Reactome,MyD88 dependent cascade initiated on endosome
+pathway_Reactome,Translation
+pathway_Reactome,Activation of C3 and C5
+pathway_Reactome,MET receptor recycling
+pathway_Reactome,ERKs are inactivated
+pathway_Reactome,"WNT5A-dependent internalization of FZD2, FZD5 and ROR2"
+pathway_Reactome,Nucleobase biosynthesis
+pathway_Reactome,Vitamin B1 (thiamin) metabolism
+pathway_Reactome,"Synthesis of IP2, IP, and Ins in the cytosol"
+pathway_Reactome,Growth hormone receptor signaling
+pathway_Reactome,NIK-->noncanonical NF-kB signaling
+pathway_Reactome,MET promotes cell motility
+pathway_Reactome,MAP kinase activation
+pathway_Reactome,Amine ligand-binding receptors
+pathway_Reactome,CREB phosphorylation through the activation of CaMKK
+pathway_Reactome,Degradation of GLI1 by the proteasome
+pathway_Reactome,Formation of tubulin folding intermediates by CCT/TriC
+pathway_Reactome,SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs
+pathway_Reactome,HDMs demethylate histones
+pathway_Reactome,Intestinal absorption
+pathway_Reactome,GRB2 events in EGFR signaling
+pathway_Reactome,Chylomicron assembly
+pathway_Reactome,SLBP independent Processing of Histone Pre-mRNAs
+pathway_Reactome,NrCAM interactions
+pathway_Reactome,Caspase activation via Death Receptors in the presence of ligand
+pathway_Reactome,Activation of TRKA receptors
+pathway_Reactome,Reactions specific to the complex N-glycan synthesis pathway
+pathway_Reactome,Transcriptional regulation by RUNX1
+pathway_Reactome,Phase 2 - plateau phase
+pathway_Reactome,TFAP2 (AP-2) family regulates transcription of cell cycle factors
+pathway_Reactome,CaMK IV-mediated phosphorylation of CREB
+pathway_Reactome,FCERI mediated Ca+2 mobilization
+pathway_Reactome,Repression of WNT target genes
+pathway_Reactome,Insulin processing
+pathway_Reactome,Ephrin signaling
+pathway_Reactome,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+pathway_Reactome,Axon guidance
+pathway_Reactome,N-glycan trimming and elongation in the cis-Golgi
+pathway_Reactome,Glycosaminoglycan metabolism
+pathway_Reactome,Regulation of commissural axon pathfinding by SLIT and ROBO
+pathway_Reactome,Trafficking of AMPA receptors
+pathway_Reactome,"Glutamate binding, activation of AMPA receptors and synaptic plasticity"
+pathway_Reactome,Creatine metabolism
+pathway_Reactome,CYP2E1 reactions
+pathway_Reactome,SMAC binds to IAPs
+pathway_Reactome,SMAC-mediated dissociation of IAP:caspase complexes
+pathway_Reactome,SMAC-mediated apoptotic response
+pathway_Reactome,Peptide hormone metabolism
+pathway_Reactome,Mineralocorticoid biosynthesis
+pathway_Reactome,TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest
+pathway_Reactome,IKK complex recruitment mediated by RIP1
+pathway_Reactome,Activation of ATR in response to replication stress
+pathway_Reactome,NGF-independant TRKA activation
+pathway_Reactome,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC"
+pathway_Reactome,Apoptotic execution phase
+pathway_Reactome,Molybdenum cofactor biosynthesis
+pathway_Reactome,Biosynthesis of specialized proresolving mediators (SPMs)
+pathway_Reactome,Synthesis of PIPs at the early endosome membrane
+pathway_Reactome,Synthesis of Leukotrienes (LT) and Eoxins (EX)
+pathway_Reactome,Signaling by PTK6
+pathway_Reactome,Signaling by Non-Receptor Tyrosine Kinases
+pathway_Reactome,Recycling pathway of L1
+pathway_Reactome,Alpha-defensins
+pathway_Reactome,RHO GTPases Activate NADPH Oxidases
+pathway_Reactome,Alpha-oxidation of phytanate
+pathway_Reactome,Degradation of GLI2 by the proteasome
+pathway_Reactome,Erythropoietin activates STAT5
+pathway_Reactome,CLEC7A (Dectin-1) signaling
+pathway_Reactome,Mitochondrial biogenesis
+pathway_Reactome,Regulation of pyruvate dehydrogenase (PDH) complex
+pathway_Reactome,Regulation of TP53 Activity through Acetylation
+pathway_Reactome,"Cell death signalling via NRAGE, NRIF and NADE"
+pathway_Reactome,Defective EXT2 causes exostoses 2
+pathway_Reactome,"Defective EXT1 causes exostoses 1, TRPS2 and CHDS"
+pathway_Reactome,Retrograde transport at the Trans-Golgi-Network
+pathway_Reactome,"Cobalamin (Cbl, vitamin B12) transport and metabolism"
+pathway_Reactome,Synthesis of Dolichyl-phosphate
+pathway_Reactome,SMAD2/3 Phosphorylation Motif Mutants in Cancer
+pathway_Reactome,Mitophagy
+pathway_Reactome,G2/M DNA damage checkpoint
+pathway_Reactome,Signaling by FGFR3 in disease
+pathway_Reactome,Signaling by FGFR3 point mutants in cancer
+pathway_Reactome,Host Interactions of HIV factors
+pathway_Reactome,ABC-family proteins mediated transport
+pathway_Reactome,IRF3 mediated activation of type 1 IFN
+pathway_Reactome,Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5)
+pathway_Reactome,Defective CSF2RA causes pulmonary surfactant metabolism dysfunction 4 (SMDP4)
+pathway_Reactome,"PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases"
+pathway_Reactome,CHL1 interactions
+pathway_Reactome,Synthesis of bile acids and bile salts
+pathway_Reactome,Erythropoietin activates Phospholipase C gamma (PLCG)
+pathway_Reactome,RUNX3 regulates p14-ARF
+pathway_Reactome,RHO GTPases Activate Rhotekin and Rhophilins
+pathway_Reactome,Inositol phosphate metabolism
+pathway_Reactome,Regulation of gene expression in early pancreatic precursor cells
+pathway_Reactome,Interleukin-6 family signaling
+pathway_Reactome,Fertilization
+pathway_Reactome,RHO GTPase Effectors
+pathway_Reactome,Transcriptional Regulation by MECP2
+pathway_Reactome,Signal regulatory protein family interactions
+pathway_Reactome,Signaling by NOTCH
+pathway_Reactome,Chromatin modifying enzymes
+pathway_Reactome,Chromatin organization
+pathway_Reactome,Loss of Function of SMAD2/3 in Cancer
+pathway_Reactome,SMAD2/3 MH2 Domain Mutants in Cancer
+pathway_Reactome,Chylomicron remodeling
+pathway_Reactome,Transcriptional regulation of pluripotent stem cells
+pathway_Reactome,PP2A-mediated dephosphorylation of key metabolic factors
+pathway_Reactome,Regulation of RUNX3 expression and activity
+pathway_Reactome,Spry regulation of FGF signaling
+pathway_Reactome,DAG and IP3 signaling
+pathway_Reactome,Apoptosis
+pathway_Reactome,Signaling by FGFR2
+pathway_Reactome,Regulation of actin dynamics for phagocytic cup formation
+pathway_Reactome,Loss of phosphorylation of MECP2 at T308
+pathway_Reactome,Nucleotide-like (purinergic) receptors
+pathway_Reactome,S Phase
+pathway_Reactome,tRNA modification in the nucleus and cytosol
+pathway_Reactome,Mitotic G2-G2/M phases
+pathway_Reactome,VLDL assembly
+pathway_Reactome,Phase 1 - inactivation of fast Na+ channels
+pathway_Reactome,Processing of Intronless Pre-mRNAs
+pathway_Reactome,Homologous DNA Pairing and Strand Exchange
+pathway_Reactome,Transcriptional Regulation by E2F6
+pathway_Reactome,Gap junction trafficking and regulation
+pathway_Reactome,Platelet Adhesion to exposed collagen
+pathway_Reactome,Neurotransmitter receptors and postsynaptic signal transmission
+pathway_Reactome,SHC-mediated cascade:FGFR2
+pathway_Reactome,PTK6 Expression
+pathway_Reactome,Costimulation by the CD28 family
+pathway_Reactome,Toll Like Receptor 4 (TLR4) Cascade
+pathway_Reactome,Signaling by FGFR1 in disease
+pathway_Reactome,C-type lectin receptors (CLRs)
+pathway_Reactome,CD28 dependent PI3K/Akt signaling
+pathway_Reactome,Switching of origins to a post-replicative state
+pathway_Reactome,SHC1 events in EGFR signaling
+pathway_Reactome,Small interfering RNA (siRNA) biogenesis
+pathway_Reactome,mTORC1-mediated signalling
+pathway_Reactome,CTLA4 inhibitory signaling
+pathway_Reactome,Deadenylation-dependent mRNA decay
+pathway_Reactome,EPH-ephrin mediated repulsion of cells
+pathway_Reactome,Biosynthesis of DHA-derived SPMs
+pathway_Reactome,Arachidonic acid metabolism
+pathway_Reactome,Reproduction
+pathway_Reactome,Regulation of PLK1 Activity at G2/M Transition
+pathway_Reactome,SUMO is conjugated to E1 (UBA2:SAE1)
+pathway_Reactome,RORA activates gene expression
+pathway_Reactome,Interleukin-12 signaling
+pathway_Reactome,Pink/Parkin Mediated Mitophagy
+pathway_Reactome,Signaling by WNT
+pathway_Reactome,Transport of small molecules
+pathway_Reactome,RHO GTPases Activate ROCKs
+pathway_Reactome,Netrin-1 signaling
+pathway_Reactome,Digestion and absorption
+pathway_Reactome,Activation of NF-kappaB in B cells
+pathway_Reactome,Signaling by Interleukins
+pathway_Reactome,Programmed Cell Death
+pathway_Reactome,Retinoid cycle disease events
+pathway_Reactome,Diseases associated with visual transduction
+pathway_Reactome,Synthesis of bile acids and bile salts via 27-hydroxycholesterol
+pathway_Reactome,Ethanol oxidation
+pathway_Reactome,DNA Replication Pre-Initiation
+pathway_Reactome,Regulation of signaling by CBL
+pathway_Reactome,MASTL Facilitates Mitotic Progression
+pathway_Reactome,Signaling by BMP
+pathway_Reactome,Class B/2 (Secretin family receptors)
+pathway_Reactome,SeMet incorporation into proteins
+pathway_Reactome,Intrinsic Pathway for Apoptosis
+pathway_Reactome,PI-3K cascade:FGFR2
+pathway_Reactome,Signaling by Hippo
+pathway_Reactome,Caspase activation via extrinsic apoptotic signalling pathway
+pathway_Reactome,Phase 3 - rapid repolarisation
+pathway_Reactome,B-WICH complex positively regulates rRNA expression
+pathway_Reactome,Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters
+pathway_Reactome,Sodium/Calcium exchangers
+pathway_Reactome,G alpha (i) signalling events
+pathway_Reactome,Hedgehog 'on' state
+pathway_Reactome,TGFBR1 KD Mutants in Cancer
+pathway_Reactome,Loss of Function of TGFBR1 in Cancer
+pathway_Reactome,Signalling to ERKs
+pathway_Reactome,Transport of the SLBP independent Mature mRNA
+pathway_Reactome,2-LTR circle formation
+pathway_Reactome,Presynaptic phase of homologous DNA pairing and strand exchange
+pathway_Reactome,RUNX2 regulates genes involved in cell migration
+pathway_Reactome,Regulation of RUNX1 Expression and Activity
+pathway_Reactome,FGFR2c ligand binding and activation
+pathway_Reactome,Assembly of the ORC complex at the origin of replication
+pathway_Reactome,TNFR1-induced proapoptotic signaling
+pathway_Reactome,Signalling to p38 via RIT and RIN
+pathway_Reactome,E2F-enabled inhibition of pre-replication complex formation
+pathway_Reactome,TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
+pathway_Reactome,HDL clearance
+pathway_Reactome,FGFR2 ligand binding and activation
+pathway_Reactome,SUMOylation of chromatin organization proteins
+pathway_Reactome,Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon
+pathway_Reactome,Presynaptic nicotinic acetylcholine receptors
+pathway_Reactome,SOS-mediated signalling
+pathway_Reactome,Regulation of TLR by endogenous ligand
+pathway_Reactome,Cam-PDE 1 activation
+pathway_Reactome,Multifunctional anion exchangers
+pathway_Reactome,NOTCH2 Activation and Transmission of Signal to the Nucleus
+pathway_Reactome,Cell-Cell communication
+pathway_Reactome,Phase 4 - resting membrane potential
+pathway_Reactome,Defective CHST6 causes MCDC1
+pathway_Reactome,Regulation of signaling by NODAL
+pathway_Reactome,Endosomal Sorting Complex Required For Transport (ESCRT)
+pathway_Reactome,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein"
+pathway_Reactome,Transport of Mature mRNAs Derived from Intronless Transcripts
+pathway_Reactome,Activation of BH3-only proteins
+pathway_Reactome,XBP1(S) activates chaperone genes
+pathway_Reactome,Beta-catenin phosphorylation cascade
+pathway_Reactome,Role of second messengers in netrin-1 signaling
+pathway_Reactome,Telomere Extension By Telomerase
+pathway_Reactome,HIV Infection
+pathway_Reactome,Transcriptional regulation by RUNX2
+pathway_Reactome,Thromboxane signalling through TP receptor
+pathway_Reactome,Transport of the SLBP Dependant Mature mRNA
+pathway_Reactome,Glycogen storage diseases
+pathway_Reactome,Transport of Mature mRNA Derived from an Intronless Transcript
+pathway_Reactome,Recycling of bile acids and salts
+pathway_Reactome,Interferon alpha/beta signaling
+pathway_Reactome,CREB phosphorylation through the activation of Adenylate Cyclase
+pathway_Reactome,Defective B3GAT3 causes JDSSDHD
+pathway_Reactome,FGFR2 mutant receptor activation
+pathway_Reactome,GDP-fucose biosynthesis
+pathway_Reactome,Constitutive Signaling by Aberrant PI3K in Cancer
+pathway_Reactome,Negative regulation of FGFR1 signaling
+pathway_Reactome,"Interleukin-3, Interleukin-5 and GM-CSF signaling"
+pathway_Reactome,Phospholipase C-mediated cascade; FGFR2
+pathway_Reactome,"Incretin synthesis, secretion, and inactivation"
+pathway_Reactome,Peptide hormone biosynthesis
+pathway_Reactome,"Defective B4GALT7 causes EDS, progeroid type"
+pathway_Reactome,Signaling by TGF-beta Receptor Complex in Cancer
+pathway_Reactome,A tetrasaccharide linker sequence is required for GAG synthesis
+pathway_Reactome,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks
+pathway_Reactome,Establishment of Sister Chromatid Cohesion
+pathway_Reactome,Xenobiotics
+pathway_Reactome,"TICAM1, RIP1-mediated IKK complex recruitment"
+pathway_Reactome,Class A/1 (Rhodopsin-like receptors)
+pathway_Reactome,MET activates PTK2 signaling
+pathway_Reactome,MET activates PTPN11
+pathway_Reactome,TRAF6 mediated NF-kB activation
+pathway_Reactome,RUNX2 regulates bone development
+pathway_Reactome,DNA Double Strand Break Response
+pathway_Reactome,RUNX1 regulates expression of components of tight junctions
+pathway_Reactome,Galactose catabolism
+pathway_Reactome,Defective B3GALT6 causes EDSP2 and SEMDJL1
+pathway_Reactome,IRE1alpha activates chaperones
+pathway_Reactome,Nuclear Envelope Breakdown
+pathway_Reactome,Transferrin endocytosis and recycling
+pathway_Reactome,"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)"
+pathway_Reactome,Signaling by cytosolic FGFR1 fusion mutants
+pathway_Reactome,"SUMO is transferred from E1 to E2 (UBE2I, UBC9)"
+pathway_Reactome,Nucleobase catabolism
+pathway_Reactome,N-Glycan antennae elongation
+pathway_Reactome,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+pathway_Reactome,Calcitonin-like ligand receptors
+pathway_Reactome,Cytochrome P450 - arranged by substrate type
+pathway_Reactome,Signaling by activated point mutants of FGFR1
+pathway_Reactome,FGFR1c ligand binding and activation
+pathway_Reactome,Toll-like Receptor Cascades
+pathway_Reactome,NCAM1 interactions
+pathway_Reactome,CDO in myogenesis
+pathway_Reactome,Myogenesis
+pathway_Reactome,mRNA Capping
+pathway_Reactome,DEx/H-box helicases activate type I IFN and inflammatory cytokines production
+pathway_Reactome,Vasopressin-like receptors
+pathway_Reactome,Signaling by GPCR
+pathway_Reactome,phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex
+pathway_Reactome,Misspliced GSK3beta mutants stabilize beta-catenin
+pathway_Reactome,S33 mutants of beta-catenin aren't phosphorylated
+pathway_Reactome,S37 mutants of beta-catenin aren't phosphorylated
+pathway_Reactome,S45 mutants of beta-catenin aren't phosphorylated
+pathway_Reactome,T41 mutants of beta-catenin aren't phosphorylated
+pathway_Reactome,Interleukin receptor SHC signaling
+pathway_Reactome,Interleukin-21 signaling
+pathway_Reactome,Anchoring of the basal body to the plasma membrane
+pathway_Reactome,Immune System
+pathway_Reactome,"Transport of bile salts and organic acids, metal ions and amine compounds"
+pathway_Reactome,Downstream signaling of activated FGFR2
+pathway_Reactome,Ion transport by P-type ATPases
+pathway_Reactome,Phospholipase C-mediated cascade: FGFR1
+pathway_Reactome,Heme biosynthesis
+pathway_Reactome,Separation of Sister Chromatids
+pathway_Reactome,Phosphate bond hydrolysis by NTPDase proteins
+pathway_Reactome,Synthesis of pyrophosphates in the cytosol
+pathway_Reactome,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+pathway_Reactome,Glutamate Neurotransmitter Release Cycle
+pathway_Reactome,p130Cas linkage to MAPK signaling for integrins
+pathway_Reactome,Androgen biosynthesis
+pathway_Reactome,Dopamine receptors
+pathway_Reactome,GPCR downstream signalling
+pathway_Reactome,TRAIL  signaling
+pathway_Reactome,Response to elevated platelet cytosolic Ca2+
+pathway_Reactome,LDL clearance
+pathway_Reactome,RUNX1 regulates transcription of genes involved in differentiation of myeloid cells
+pathway_Reactome,Formation of the beta-catenin:TCF transactivating complex
+pathway_Reactome,Type I hemidesmosome assembly
+pathway_Reactome,DNA Double-Strand Break Repair
+pathway_Reactome,Aryl hydrocarbon receptor signalling
+pathway_Reactome,TLR3-mediated TICAM1-dependent programmed cell death
+pathway_Reactome,Neurexins and neuroligins
+pathway_Reactome,Developmental Biology
+pathway_Reactome,Methionine salvage pathway
+pathway_Reactome,Ubiquinol biosynthesis
+pathway_Reactome,Abacavir metabolism
+pathway_Reactome,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
+pathway_Reactome,Platelet degranulation
+pathway_Reactome,Recruitment of NuMA to mitotic centrosomes
+pathway_Reactome,Intra-Golgi and retrograde Golgi-to-ER traffic
+pathway_Reactome,MicroRNA (miRNA) biogenesis
+pathway_Reactome,Metabolism of fat-soluble vitamins
+pathway_Reactome,Cytokine Signaling in Immune system
+pathway_Reactome,G2 Phase
+pathway_Reactome,Ca2+ pathway
+pathway_Reactome,NOTCH2 intracellular domain regulates transcription
+pathway_Reactome,Highly calcium permeable nicotinic acetylcholine receptors
+pathway_Reactome,Na+/Cl- dependent neurotransmitter transporters
+pathway_Reactome,Early Phase of HIV Life Cycle
+pathway_Reactome,Interleukin-1 processing
+pathway_Reactome,EPHA-mediated growth cone collapse
+pathway_Reactome,MET Receptor Activation
+pathway_Reactome,TP53 Regulates Transcription of Cell Cycle Genes
+pathway_Reactome,Keratan sulfate biosynthesis
+pathway_Reactome,Cyclin D associated events in G1
+pathway_Reactome,G1 Phase
+pathway_Reactome,Ras activation upon Ca2+ influx through NMDA receptor
+pathway_Reactome,POLB-Dependent Long Patch Base Excision Repair
+pathway_Reactome,Negative regulation of activity of TFAP2 (AP-2) family transcription factors
+pathway_Reactome,TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling
+pathway_Reactome,Reduction of cytosolic Ca++ levels
+pathway_Reactome,Zinc efflux and compartmentalization by the SLC30 family
+pathway_Reactome,IL-6-type cytokine receptor ligand interactions
+pathway_Reactome,Meiotic synapsis
+pathway_Reactome,Highly sodium permeable acetylcholine nicotinic receptors
+pathway_Reactome,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
+pathway_Reactome,Beta-catenin independent WNT signaling
+pathway_Reactome,Cell junction organization
+pathway_Reactome,"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)"
+pathway_Reactome,Chondroitin sulfate/dermatan sulfate metabolism
+pathway_Reactome,Stabilization of p53
+pathway_Reactome,Keratan sulfate/keratin metabolism
+pathway_Reactome,PTK6 promotes HIF1A stabilization
+pathway_Reactome,TBC/RABGAPs
+pathway_Reactome,Cytosolic sensors of pathogen-associated DNA
+pathway_Reactome,Meiosis
+pathway_Reactome,Adaptive Immune System
+pathway_Reactome,GP1b-IX-V activation signalling
+pathway_Reactome,Apoptosis induced DNA fragmentation
+pathway_Reactome,Activation of DNA fragmentation factor
+pathway_Reactome,Retrograde neurotrophin signalling
+pathway_Reactome,EPHB-mediated forward signaling
+pathway_Reactome,"BMAL1:CLOCK,NPAS2 activates circadian gene expression"
+pathway_Reactome,Ovarian tumor domain proteases
+pathway_Reactome,Metabolism of carbohydrates
+pathway_Reactome,Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+pathway_Reactome,Deactivation of the beta-catenin transactivating complex
+pathway_Reactome,Thyroxine biosynthesis
+pathway_Reactome,Keratan sulfate degradation
+pathway_Reactome,RUNX3 regulates CDKN1A transcription
+pathway_Reactome,MET interacts with TNS proteins
+pathway_Reactome,Interleukin-15 signaling
+pathway_Reactome,Interleukin-12 family signaling
+pathway_Reactome,MyD88-independent TLR4 cascade
+pathway_Reactome,TRIF(TICAM1)-mediated TLR4 signaling
+pathway_Reactome,GPVI-mediated activation cascade
+pathway_Reactome,VLDL clearance
+pathway_Reactome,M Phase
+pathway_Reactome,Processing of SMDT1
+pathway_Reactome,Glycoprotein hormones
+pathway_Reactome,Interaction between L1 and Ankyrins
+pathway_Reactome,CD28 co-stimulation
+pathway_Reactome,The role of Nef in HIV-1 replication and disease pathogenesis
+pathway_Reactome,Diseases associated with glycosaminoglycan metabolism
+pathway_Reactome,Lipid particle organization
+pathway_Reactome,Organic anion transport
+pathway_Reactome,Synthesis of DNA
+pathway_Reactome,Signaling by Hedgehog
+pathway_Reactome,GPCR ligand binding
+pathway_Reactome,Interleukin-2 signaling
+pathway_Reactome,COPI-dependent Golgi-to-ER retrograde traffic
+pathway_Reactome,Iron uptake and transport
+pathway_Reactome,CREB3 factors activate genes
+pathway_Reactome,FGFRL1 modulation of FGFR1 signaling
+pathway_Reactome,Cellular response to heat stress
+pathway_Reactome,Downstream signaling events of B Cell Receptor (BCR)
+pathway_Reactome,Retinoid metabolism and transport
+pathway_Reactome,p38MAPK events
+pathway_Reactome,Assembly of active LPL and LIPC lipase complexes
+pathway_Reactome,G beta:gamma signalling through PI3Kgamma
+pathway_Reactome,TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+pathway_Reactome,GRB2 events in ERBB2 signaling
+pathway_Reactome,Biosynthesis of maresin-like SPMs
+pathway_Reactome,Oxidative Stress Induced Senescence
+pathway_Reactome,Axonal growth inhibition (RHOA activation)
+pathway_Reactome,Signal transduction by L1
+pathway_Reactome,Activated NOTCH1 Transmits Signal to the Nucleus
+pathway_Reactome,Synaptic adhesion-like molecules
+pathway_Reactome,P2Y receptors
+pathway_Reactome,Tight junction interactions
+pathway_Reactome,Melanin biosynthesis
+pathway_Reactome,RUNX1 regulates transcription of genes involved in differentiation of HSCs
+pathway_Reactome,PRC2 methylates histones and DNA
+pathway_Reactome,Cyclin A/B1/B2 associated events during G2/M transition
+pathway_Reactome,PTK6 Regulates Cell Cycle
+pathway_Reactome,Transcriptional regulation by RUNX3
+pathway_Reactome,PKMTs methylate histone lysines
+pathway_Reactome,Calnexin/calreticulin cycle
+pathway_Reactome,Leukotriene receptors
+pathway_Reactome,p75NTR recruits signalling complexes
+pathway_Reactome,Activation of the pre-replicative complex
+pathway_Reactome,Processing of DNA double-strand break ends
+pathway_Reactome,cGMP effects
+pathway_Reactome,WNT ligand biogenesis and trafficking
+pathway_Reactome,Serotonin Neurotransmitter Release Cycle
+pathway_Reactome,RUNX3 regulates YAP1-mediated transcription
+pathway_Reactome,SUMO E3 ligases SUMOylate target proteins
+pathway_Reactome,Negative regulation of TCF-dependent signaling by WNT ligand antagonists
+pathway_Reactome,Negative regulation of FGFR4 signaling
+pathway_Reactome,mRNA Splicing
+pathway_Reactome,G-protein beta:gamma signalling
+pathway_Reactome,Other interleukin signaling
+pathway_Reactome,Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+pathway_Reactome,InlA-mediated entry of Listeria monocytogenes into host cells
+pathway_Reactome,Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)
+pathway_Reactome,Triglyceride metabolism
+pathway_Reactome,RAF-independent MAPK1/3 activation
+pathway_Reactome,Release of Hh-Np from the secreting cell
+pathway_Reactome,Mitotic Prometaphase
+pathway_Reactome,p75NTR regulates axonogenesis
+pathway_Reactome,Positive epigenetic regulation of rRNA expression
+pathway_Reactome,Reelin signalling pathway
+pathway_Reactome,Caspase-mediated cleavage of cytoskeletal proteins
+pathway_Reactome,mRNA Splicing - Major Pathway
+pathway_Reactome,COPI-mediated anterograde transport
+pathway_Reactome,Processing and activation of SUMO
+pathway_Reactome,Interleukin-35 Signalling
+pathway_Reactome,Amino acid synthesis and interconversion (transamination)
+pathway_Reactome,Toll Like Receptor 3 (TLR3) Cascade
+pathway_Reactome,Josephin domain DUBs
+pathway_Reactome,SUMOylation of DNA methylation proteins
+pathway_Reactome,Transport to the Golgi and subsequent modification
+pathway_Reactome,TNFR1-mediated ceramide production
+pathway_Reactome,MET activates RAS signaling
+pathway_Reactome,SUMOylation of RNA binding proteins
+pathway_Reactome,Dermatan sulfate biosynthesis
+pathway_Reactome,Pausing and recovery of Tat-mediated HIV elongation
+pathway_Reactome,Tat-mediated HIV elongation arrest and recovery
+pathway_Reactome,Diseases of Mismatch Repair (MMR)
+pathway_Reactome,HDR through MMEJ (alt-NHEJ)
+pathway_Reactome,Signaling by SCF-KIT
+pathway_Reactome,Signaling by FGFR in disease
+pathway_Reactome,Visual phototransduction
+pathway_Reactome,Downstream TCR signaling
+pathway_Reactome,Signaling by the B Cell Receptor (BCR)
+pathway_Reactome,Loss of function of MECP2 in Rett syndrome
+pathway_Reactome,Pervasive developmental disorders
+pathway_Reactome,Metalloprotease DUBs
+pathway_Reactome,"GABA synthesis, release, reuptake and degradation"
+pathway_Reactome,Kinesins
+pathway_Reactome,NOD1/2 Signaling Pathway
+pathway_Reactome,Uptake and actions of bacterial toxins
+pathway_Reactome,snRNP Assembly
+pathway_Reactome,Metabolism of non-coding RNA
+pathway_Reactome,Regulation of innate immune responses to cytosolic DNA
+pathway_Reactome,The role of GTSE1 in G2/M progression after G2 checkpoint
+pathway_Reactome,Signaling by ERBB4
+pathway_Reactome,Methylation
+pathway_Reactome,Tryptophan catabolism
+pathway_Reactome,FCERI mediated MAPK activation
+pathway_Reactome,Termination of O-glycan biosynthesis
+pathway_Reactome,CRMPs in Sema3A signaling
+pathway_Reactome,Miscellaneous transport and binding events
+pathway_Reactome,Mitotic Anaphase
+pathway_Reactome,Signaling by Activin
+pathway_Reactome,Transcriptional activation of mitochondrial biogenesis
+pathway_Reactome,Intraflagellar transport
+pathway_Reactome,FasL/ CD95L signaling
+pathway_Reactome,PKA-mediated phosphorylation of key metabolic factors
+pathway_Reactome,Unwinding of DNA
+pathway_Reactome,Hedgehog 'off' state
+pathway_Reactome,Signaling by Nuclear Receptors
+pathway_Reactome,Bile acid and bile salt metabolism
+pathway_Reactome,Synthesis of PI
+pathway_Reactome,Mitotic Metaphase and Anaphase
+pathway_Reactome,Ligand-receptor interactions
+pathway_Reactome,RUNX2 regulates osteoblast differentiation
+pathway_Reactome,Activation of SMO
+pathway_Reactome,SUMOylation
+pathway_Reactome,Metal ion SLC transporters
+pathway_Reactome,OAS antiviral response
+pathway_Reactome,SHC-mediated cascade:FGFR3
+pathway_Reactome,Regulation of TP53 Activity through Phosphorylation
+pathway_Reactome,FRS-mediated FGFR1 signaling
+pathway_Reactome,SRP-dependent cotranslational protein targeting to membrane
+pathway_Reactome,Vpr-mediated nuclear import of PICs
+pathway_Reactome,Carboxyterminal post-translational modifications of tubulin
+pathway_Reactome,TCR signaling
+pathway_Reactome,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion
+pathway_Reactome,Nitric oxide stimulates guanylate cyclase
+pathway_Reactome,Biosynthesis of maresins
+pathway_Reactome,Non-integrin membrane-ECM interactions
+pathway_Reactome,Polymerase switching on the C-strand of the telomere
+pathway_Reactome,Polymerase switching
+pathway_Reactome,Leading Strand Synthesis
+pathway_Reactome,Adenylate cyclase activating pathway
+pathway_Reactome,EGFR Transactivation by Gastrin
+pathway_Reactome,Interferon Signaling
+pathway_Reactome,Prolonged ERK activation events
+pathway_Reactome,ARMS-mediated activation
+pathway_Reactome,Interleukin-2 family signaling
+pathway_Reactome,Downregulation of ERBB2:ERBB3 signaling
+pathway_Reactome,DNA Damage Recognition in GG-NER
+pathway_Reactome,Metabolism of nucleotides
+pathway_Reactome,Deposition of new CENPA-containing nucleosomes at the centromere
+pathway_Reactome,Nucleosome assembly
+pathway_Reactome,Platelet homeostasis
+pathway_Reactome,IRAK4 deficiency (TLR2/4)
+pathway_Reactome,Circadian Clock
+pathway_Reactome,SUMOylation of DNA damage response and repair proteins
+pathway_Reactome,Antimicrobial peptides
+pathway_Reactome,Pyrimidine catabolism
+pathway_Reactome,Metabolism of proteins
+pathway_Reactome,SUMOylation of transcription cofactors
+pathway_Reactome,Activation of BAD and translocation to mitochondria
+pathway_Reactome,IRAK2 mediated activation of TAK1 complex
+pathway_Reactome,Phospholipase C-mediated cascade; FGFR3
+pathway_Reactome,Cellular hexose transport
+pathway_Reactome,mRNA decay by 3' to 5' exoribonuclease
+pathway_Reactome,Nuclear import of Rev protein
+pathway_Reactome,RNA polymerase II transcribes snRNA genes
+pathway_Reactome,HIV elongation arrest and recovery
+pathway_Reactome,Pausing and recovery of HIV elongation
+pathway_Reactome,Nuclear Pore Complex (NPC) Disassembly
+pathway_Reactome,HDR through Single Strand Annealing (SSA)
+pathway_Reactome,Signaling by FGFR2 in disease
+pathway_Reactome,Interleukin-20 family signaling
+pathway_Reactome,KSRP (KHSRP) binds and destabilizes mRNA
+pathway_Reactome,Regulation of Glucokinase by Glucokinase Regulatory Protein
+pathway_Reactome,Recognition of DNA damage by PCNA-containing replication complex
+pathway_Reactome,NOTCH3 Activation and Transmission of Signal to the Nucleus
+pathway_Reactome,Defensins
+pathway_Reactome,Nuclear signaling by ERBB4
+pathway_Reactome,SLC transporter disorders
+pathway_Reactome,Diseases of glycosylation
+pathway_Reactome,"TICAM1,TRAF6-dependent induction of TAK1 complex"
+pathway_Reactome,IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation
+pathway_Reactome,Activation of RAS in B cells
+pathway_Reactome,Cargo trafficking to the periciliary membrane
+pathway_Reactome,Protein-protein interactions at synapses
+pathway_Reactome,Cell surface interactions at the vascular wall
+pathway_Reactome,MyD88 deficiency (TLR2/4)
+pathway_Reactome,Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells
+pathway_Reactome,Conjugation of benzoate with glycine
+pathway_Reactome,Histidine catabolism
+pathway_Reactome,Organelle biogenesis and maintenance
+pathway_Reactome,G1/S Transition
+pathway_Reactome,NF-kB is activated and signals survival
+pathway_Reactome,Signaling by NOTCH2
+pathway_Reactome,Interferon gamma signaling
+pathway_Reactome,IRF3-mediated induction of type I IFN
+pathway_Reactome,MHC class II antigen presentation
+pathway_Reactome,p75NTR signals via NF-kB
+pathway_Reactome,Post-translational protein modification
+pathway_Reactome,Interactions of Rev with host cellular proteins
+pathway_Reactome,mRNA decay by 5' to 3' exoribonuclease
+pathway_Reactome,Chaperonin-mediated protein folding
+pathway_Reactome,Cargo concentration in the ER
+pathway_Reactome,Defective ST3GAL3 causes MCT12 and EIEE15
+pathway_Reactome,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)
+pathway_Reactome,Ca2+ activated K+ channels
+pathway_Reactome,Homology Directed Repair
+pathway_Reactome,Nicotinate metabolism
+pathway_Reactome,Phosphorylation of Emi1
+pathway_Reactome,DNA Damage/Telomere Stress Induced Senescence
+pathway_Reactome,TRAF6-mediated induction of TAK1 complex within TLR4 complex
+pathway_Reactome,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways"
+pathway_Reactome,RAB geranylgeranylation
+pathway_Reactome,FRS-mediated FGFR2 signaling
+pathway_Reactome,COPII-mediated vesicle transport
+pathway_Reactome,Potassium Channels
+pathway_Reactome,RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known
+pathway_Reactome,p53-Dependent G1 DNA Damage Response
+pathway_Reactome,p53-Dependent G1/S DNA damage checkpoint
+pathway_Reactome,Glucagon-type ligand receptors
+pathway_Reactome,DNA Replication
+pathway_Reactome,Vasopressin regulates renal water homeostasis via Aquaporins
+pathway_Reactome,Nef Mediated CD4 Down-regulation
+pathway_Reactome,Diseases associated with O-glycosylation of proteins
+pathway_Reactome,RHO GTPases Activate Formins
+pathway_Reactome,Activation of G protein gated Potassium channels
+pathway_Reactome,G protein gated Potassium channels
+pathway_Reactome,Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits
+pathway_Reactome,Adherens junctions interactions
+pathway_Reactome,Anchoring fibril formation
+pathway_Reactome,RNA Pol II CTD phosphorylation and interaction with CE during HIV infection
+pathway_Reactome,RNA Pol II CTD phosphorylation and interaction with CE
+pathway_Reactome,Death Receptor Signalling
+pathway_Reactome,Diseases of Immune System
+pathway_Reactome,Diseases associated with the TLR signaling cascade
+pathway_Reactome,EPH-Ephrin signaling
+pathway_Reactome,PECAM1 interactions
+pathway_Reactome,Transport of Ribonucleoproteins into the Host Nucleus
+pathway_Reactome,Receptor Mediated Mitophagy
+pathway_Reactome,"Inactivation, recovery and regulation of the phototransduction cascade"
+pathway_Reactome,Interactions of Vpr with host cellular proteins
+pathway_Reactome,The phototransduction cascade
+pathway_Reactome,Transcriptional Regulation by TP53
+pathway_Reactome,Cell Cycle Checkpoints
+pathway_Reactome,Reversal of alkylation damage by DNA dioxygenases
+pathway_Reactome,Regulation of TP53 Expression and Degradation
+pathway_Reactome,Formation of annular gap junctions
+pathway_Reactome,Synthesis of 15-eicosatetraenoic acid derivatives
+pathway_Reactome,SLC-mediated transmembrane transport
+pathway_Reactome,"Sodium-coupled sulphate, di- and tri-carboxylate transporters"
+pathway_Reactome,Processing of Capped Intron-Containing Pre-mRNA
+pathway_Reactome,PI5P Regulates TP53 Acetylation
+pathway_Reactome,Gap junction degradation
+pathway_Reactome,Cell-cell junction organization
+pathway_Reactome,DNA Repair
+pathway_Reactome,Regulation of expression of SLITs and ROBOs
+pathway_Reactome,Formation of Fibrin Clot (Clotting Cascade)
+pathway_Reactome,Synthesis of IP3 and IP4 in the cytosol
+pathway_Reactome,Attenuation phase
+pathway_Reactome,FGFR1 mutant receptor activation
+pathway_Reactome,PLC beta mediated events
+pathway_Reactome,Phospholipase C-mediated cascade; FGFR4
+pathway_Reactome,Resolution of D-loop Structures through Holliday Junction Intermediates
+pathway_Reactome,ESR-mediated signaling
+pathway_Reactome,NCAM signaling for neurite out-growth
+pathway_Reactome,Intrinsic Pathway of Fibrin Clot Formation
+pathway_Reactome,O-linked glycosylation
+pathway_Reactome,ER Quality Control Compartment (ERQC)
+pathway_Reactome,Erythropoietin activates RAS
+pathway_Reactome,G alpha (s) signalling events
+pathway_Reactome,GRB2:SOS provides linkage to MAPK signaling for Integrins
+pathway_Reactome,O-linked glycosylation of mucins
+pathway_Reactome,Chylomicron clearance
+pathway_Reactome,Regulation of gene expression in beta cells
+pathway_Reactome,Digestion of dietary carbohydrate
+pathway_Reactome,Signaling by Retinoic Acid
+pathway_Reactome,FGFR1 ligand binding and activation
+pathway_Reactome,DNA Damage Reversal
+pathway_Reactome,Inwardly rectifying K+ channels
+pathway_Reactome,Asparagine N-linked glycosylation
+pathway_Reactome,Infectious disease
+pathway_Reactome,PIWI-interacting RNA (piRNA) biogenesis
+pathway_Reactome,Glycogen metabolism
+pathway_Reactome,NTRK2 activates RAC1
+pathway_Reactome,Metabolism of RNA
+pathway_Reactome,Signaling by NOTCH1 HD Domain Mutants in Cancer
+pathway_Reactome,Constitutive Signaling by NOTCH1 HD Domain Mutants
+pathway_Reactome,Cell-extracellular matrix interactions
+pathway_Reactome,Fanconi Anemia Pathway
+pathway_Reactome,"Cell Cycle, Mitotic"
+pathway_Reactome,Apoptotic cleavage of cell adhesion  proteins
+pathway_Reactome,RHO GTPases activate PAKs
+pathway_Reactome,FBXW7 Mutants and NOTCH1 in Cancer
+pathway_Reactome,Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
+pathway_Reactome,Acetylcholine Neurotransmitter Release Cycle
+pathway_Reactome,Aquaporin-mediated transport
+pathway_Reactome,RNA Polymerase I Transcription Termination
+pathway_Reactome,Defective B3GALTL causes Peters-plus syndrome (PpS)
+pathway_Reactome,Opioid Signalling
+pathway_Reactome,Cristae formation
+pathway_Reactome,Transport of inorganic cations/anions and amino acids/oligopeptides
+pathway_Reactome,tRNA modification in the mitochondrion
+pathway_Reactome,Pre-NOTCH Expression and Processing
+pathway_Reactome,DAP12 interactions
+pathway_Reactome,Activated NTRK2 signals through RAS
+pathway_Reactome,G-protein mediated events
+pathway_Reactome,Amyloid fiber formation
+pathway_Reactome,Senescence-Associated Secretory Phenotype (SASP)
+pathway_Reactome,O-glycosylation of TSR domain-containing proteins
+pathway_Reactome,HSF1 activation
+pathway_Reactome,Removal of the Flap Intermediate
+pathway_Reactome,Resolution of D-Loop Structures
+pathway_Reactome,Adenylate cyclase inhibitory pathway
+pathway_Reactome,Inhibition of adenylate cyclase pathway
+pathway_Reactome,Synthesis of diphthamide-EEF2
+pathway_Reactome,"Base-Excision Repair, AP Site Formation"
+pathway_Reactome,Elevation of cytosolic Ca2+ levels
+pathway_Reactome,Displacement of DNA glycosylase by APEX1
+pathway_Reactome,Synthesis of active ubiquitin: roles of E1 and E2 enzymes
+pathway_Reactome,RNA Polymerase I Promoter Escape
+pathway_Reactome,Fibronectin matrix formation
+pathway_Reactome,Cell Cycle
+pathway_Reactome,FGFR2 alternative splicing
+pathway_Reactome,Acyl chain remodeling of CL
+pathway_Reactome,Activation of PUMA and translocation to mitochondria
+pathway_Reactome,FRS-mediated FGFR4 signaling
+pathway_Reactome,SUMO is proteolytically processed
+pathway_Reactome,Fructose metabolism
+pathway_Reactome,Defective CHST3 causes SEDCJD
+pathway_Reactome,Regulation of TP53 Degradation
+pathway_Reactome,Zinc influx into cells by the SLC39 gene family
+pathway_Reactome,VxPx cargo-targeting to cilium
+pathway_Reactome,Late Phase of HIV Life Cycle
+pathway_Reactome,Downregulation of ERBB4 signaling
+pathway_Reactome,Regulated proteolysis of p75NTR
+pathway_Reactome,Influenza Life Cycle
+pathway_Reactome,Glucocorticoid biosynthesis
+pathway_Reactome,Interconversion of nucleotide di- and triphosphates
+pathway_Reactome,LGI-ADAM interactions
+pathway_Reactome,Folding of actin by CCT/TriC
+pathway_Reactome,SUMOylation of immune response proteins
+pathway_Reactome,Signaling by PDGF
+pathway_Reactome,NEP/NS2 Interacts with the Cellular Export Machinery
+pathway_Reactome,G1/S DNA Damage Checkpoints
+pathway_Reactome,Beta defensins
+pathway_Reactome,Serine biosynthesis
+pathway_Reactome,RA biosynthesis pathway
+pathway_Reactome,tRNA processing
+pathway_Reactome,Activation of E2F1 target genes at G1/S
+pathway_Reactome,G1/S-Specific Transcription
+pathway_Reactome,ISG15 antiviral mechanism
+pathway_Reactome,Misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling
+pathway_Reactome,Pre-NOTCH Transcription and Translation
+pathway_Reactome,Ca-dependent events
+pathway_Reactome,STING mediated induction of host immune responses
+pathway_Reactome,Influenza Viral RNA Transcription and Replication
+pathway_Reactome,Nucleotide Excision Repair
+pathway_Reactome,PKA activation in glucagon signalling
+pathway_Reactome,Plasma lipoprotein clearance
+pathway_Reactome,Nicotinamide salvaging
+pathway_Reactome,Assembly Of The HIV Virion
+pathway_Reactome,Glucose metabolism
+pathway_Reactome,The NLRP3 inflammasome

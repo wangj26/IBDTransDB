@@ -1,0 +1,13 @@
+name: ibdtransdb
+title: ibdtransdb
+username:
+account: abbviegrc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10013888
+bundleId: 7870509
+url: https://abbviegrc.shinyapps.io/ibdtransdb/
+when: 1698690716.02877
+lastSyncTime: 1698690716.02879
+asMultiple: FALSE
+asStatic: FALSE

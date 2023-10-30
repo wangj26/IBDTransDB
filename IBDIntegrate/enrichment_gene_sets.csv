@@ -1,0 +1,318 @@
+database,description
+pathway_KEGG,Rheumatoid arthritis
+pathway_KEGG,Leishmaniasis
+pathway_KEGG,Staphylococcus aureus infection
+pathway_KEGG,Hematopoietic cell lineage
+pathway_KEGG,NF-kappa B signaling pathway
+pathway_KEGG,Inflammatory bowel disease (IBD)
+pathway_KEGG,Osteoclast differentiation
+pathway_KEGG,Phagosome
+pathway_KEGG,Epstein-Barr virus infection
+pathway_KEGG,Intestinal immune network for IgA production
+pathway_KEGG,Toxoplasmosis
+pathway_KEGG,Tuberculosis
+pathway_KEGG,NOD-like receptor signaling pathway
+pathway_KEGG,Malaria
+pathway_KEGG,Th17 cell differentiation
+pathway_KEGG,Cytokine-cytokine receptor interaction
+pathway_KEGG,Antigen processing and presentation
+pathway_KEGG,Complement and coagulation cascades
+pathway_KEGG,Autoimmune thyroid disease
+pathway_KEGG,TNF signaling pathway
+pathway_KEGG,IL-17 signaling pathway
+pathway_KEGG,Proteasome
+pathway_KEGG,Cell adhesion molecules (CAMs)
+pathway_KEGG,Th1 and Th2 cell differentiation
+pathway_KEGG,Allograft rejection
+pathway_KEGG,Kaposi sarcoma-associated herpesvirus infection
+pathway_KEGG,Pertussis
+pathway_KEGG,Viral myocarditis
+pathway_KEGG,Graft-versus-host disease
+pathway_KEGG,Influenza A
+pathway_KEGG,Chemokine signaling pathway
+pathway_KEGG,Measles
+pathway_KEGG,B cell receptor signaling pathway
+pathway_KEGG,Type I diabetes mellitus
+pathway_KEGG,JAK-STAT signaling pathway
+pathway_KEGG,Thermogenesis
+pathway_KEGG,Chemical carcinogenesis
+pathway_KEGG,Oxidative phosphorylation
+pathway_KEGG,Drug metabolism
+pathway_KEGG,Herpes simplex infection
+pathway_KEGG,Salmonella infection
+pathway_KEGG,Toll-like receptor signaling pathway
+pathway_KEGG,Amoebiasis
+pathway_KEGG,Systemic lupus erythematosus
+pathway_KEGG,C-type lectin receptor signaling pathway
+pathway_KEGG,Primary immunodeficiency
+pathway_KEGG,Protein processing in endoplasmic reticulum
+pathway_KEGG,Asthma
+pathway_KEGG,Chagas disease (American trypanosomiasis)
+pathway_KEGG,Natural killer cell mediated cytotoxicity
+pathway_KEGG,Legionellosis
+pathway_KEGG,Leukocyte transendothelial migration
+pathway_KEGG,African trypanosomiasis
+pathway_KEGG,Hepatitis B
+pathway_KEGG,Metabolism of xenobiotics by cytochrome P450
+pathway_KEGG,ECM-receptor interaction
+pathway_KEGG,Parkinson disease
+pathway_KEGG,Human cytomegalovirus infection
+pathway_KEGG,Transcriptional misregulation in cancer
+pathway_KEGG,Human T-cell leukemia virus 1 infection
+pathway_KEGG,T cell receptor signaling pathway
+pathway_KEGG,Retinol metabolism
+pathway_KEGG,HIF-1 signaling pathway
+pathway_KEGG,Cardiac muscle contraction
+pathway_KEGG,Bile secretion
+pathway_KEGG,Mineral absorption
+pathway_KEGG,Huntington disease
+pathway_KEGG,Protein export
+pathway_KEGG,Ribosome
+pathway_KEGG,Human immunodeficiency virus 1 infection
+pathway_KEGG,Ascorbate and aldarate metabolism
+pathway_KEGG,Valine, leucine and isoleucine degradation
+pathway_KEGG,Tyrosine metabolism
+pathway_KEGG,Fc gamma R-mediated phagocytosis
+pathway_KEGG,AGE-RAGE signaling pathway in diabetic complications
+pathway_KEGG,Proximal tubule bicarbonate reclamation
+pathway_KEGG,Fatty acid degradation
+pathway_KEGG,Non-alcoholic fatty liver disease (NAFLD)
+pathway_KEGG,Peroxisome
+pathway_KEGG,Epithelial cell signaling in Helicobacter pylori infection
+pathway_KEGG,Butanoate metabolism
+pathway_KEGG,Prion diseases
+pathway_KEGG,Fc epsilon RI signaling pathway
+pathway_KEGG,Primary bile acid biosynthesis
+pathway_KEGG,Alzheimer disease
+pathway_KEGG,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+pathway_KEGG,Pathogenic Escherichia coli infection
+pathway_KEGG,Shigellosis
+pathway_KEGG,Focal adhesion
+pathway_KEGG,Viral carcinogenesis
+pathway_KEGG,Acute myeloid leukemia
+pathway_KEGG,Pathways in cancer
+pathway_KEGG,Apoptosis
+pathway_KEGG,Fluid shear stress and atherosclerosis
+pathway_KEGG,Cytosolic DNA-sensing pathway
+pathway_KEGG,Fat digestion and absorption
+pathway_KEGG,Nitrogen metabolism
+pathway_KEGG,Citrate cycle (TCA cycle)
+pathway_KEGG,Cellular senescence
+pathway_KEGG,Synthesis and degradation of ketone bodies
+pathway_KEGG,Propanoate metabolism
+pathway_KEGG,VEGF signaling pathway
+pathway_KEGG,Platelet activation
+pathway_KEGG,Bacterial invasion of epithelial cells
+pathway_KEGG,Sulfur metabolism
+pathway_KEGG,Necroptosis
+pathway_KEGG,PPAR signaling pathway
+pathway_KEGG,Other glycan degradation
+pathway_KEGG,Phosphatidylinositol signaling system
+pathway_KEGG,Steroid hormone biosynthesis
+pathway_KEGG,Thyroid hormone synthesis
+pathway_KEGG,RIG-I-like receptor signaling pathway
+pathway_KEGG,PI3K-Akt signaling pathway
+pathway_KEGG,Retrograde endocannabinoid signaling
+pathway_KEGG,Sulfur relay system
+pathway_KEGG,Small cell lung cancer
+pathway_KEGG,Chronic myeloid leukemia
+pathway_KEGG,Pancreatic cancer
+pathway_KEGG,Metabolic pathways
+pathway_KEGG,Relaxin signaling pathway
+pathway_KEGG,Proteoglycans in cancer
+pathway_KEGG,Hepatitis C
+pathway_KEGG,Central carbon metabolism in cancer
+pathway_KEGG,Pyruvate metabolism
+pathway_KEGG,Glycosaminoglycan biosynthesis
+pathway_KEGG,Cell cycle
+pathway_KEGG,Vibrio cholerae infection
+pathway_KEGG,Bladder cancer
+pathway_KEGG,Prostate cancer
+pathway_KEGG,Neomycin, kanamycin and gentamicin biosynthesis
+pathway_KEGG,Terpenoid backbone biosynthesis
+pathway_KEGG,Porphyrin and chlorophyll metabolism
+pathway_KEGG,p53 signaling pathway
+pathway_KEGG,Human papillomavirus infection
+pathway_KEGG,Renal cell carcinoma
+pathway_KEGG,Pancreatic secretion
+pathway_KEGG,AMPK signaling pathway
+pathway_KEGG,MAPK signaling pathway
+pathway_KEGG,Hippo signaling pathway
+pathway_KEGG,Pentose and glucuronate interconversions
+pathway_KEGG,Ras signaling pathway
+pathway_KEGG,Inositol phosphate metabolism
+pathway_KEGG,Histidine metabolism
+pathway_KEGG,Hypertrophic cardiomyopathy (HCM)
+pathway_KEGG,Prolactin signaling pathway
+pathway_KEGG,Linoleic acid metabolism
+pathway_KEGG,Sphingolipid metabolism
+pathway_KEGG,Taste transduction
+pathway_KEGG,Maturity onset diabetes of the young
+pathway_KEGG,Ferroptosis
+pathway_KEGG,Biosynthesis of amino acids
+pathway_KEGG,One carbon pool by folate
+pathway_KEGG,Phenylalanine metabolism
+pathway_KEGG,Aldosterone-regulated sodium reabsorption
+pathway_KEGG,EGFR tyrosine kinase inhibitor resistance
+pathway_KEGG,Phospholipase D signaling pathway
+pathway_KEGG,Lysosome
+pathway_KEGG,Phototransduction
+pathway_KEGG,MicroRNAs in cancer
+pathway_KEGG,Homologous recombination
+pathway_KEGG,Antifolate resistance
+pathway_KEGG,Regulation of actin cytoskeleton
+pathway_KEGG,Ubiquinone and other terpenoid-quinone biosynthesis
+pathway_KEGG,Glycerophospholipid metabolism
+pathway_KEGG,Fructose and mannose metabolism
+pathway_KEGG,Ubiquitin mediated proteolysis
+pathway_KEGG,Rap1 signaling pathway
+pathway_KEGG,Phosphonate and phosphinate metabolism
+pathway_KEGG,Glioma
+pathway_KEGG,Insulin signaling pathway
+pathway_KEGG,Non-small cell lung cancer
+pathway_KEGG,Longevity regulating pathway
+pathway_KEGG,Glycosphingolipid biosynthesis
+pathway_KEGG,alpha-Linolenic acid metabolism
+pathway_KEGG,Salivary secretion
+pathway_KEGG,Regulation of lipolysis in adipocytes
+pathway_KEGG,Aldosterone synthesis and secretion
+pathway_KEGG,beta-Alanine metabolism
+pathway_KEGG,Vitamin digestion and absorption
+pathway_KEGG,Vascular smooth muscle contraction
+pathway_KEGG,N-Glycan biosynthesis
+pathway_KEGG,Melanoma
+pathway_KEGG,Taurine and hypotaurine metabolism
+pathway_KEGG,FoxO signaling pathway
+pathway_KEGG,Gastric acid secretion
+pathway_KEGG,RNA polymerase
+pathway_KEGG,Sphingolipid signaling pathway
+pathway_KEGG,SNARE interactions in vesicular transport
+pathway_KEGG,Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+pathway_KEGG,Galactose metabolism
+pathway_KEGG,Mucin type O-glycan biosynthesis
+pathway_KEGG,Endocrine and other factor-regulated calcium reabsorption
+pathway_KEGG,Glycerolipid metabolism
+pathway_KEGG,Adherens junction
+pathway_KEGG,Cholinergic synapse
+pathway_KEGG,Estrogen signaling pathway
+pathway_KEGG,Glyoxylate and dicarboxylate metabolism
+pathway_KEGG,Neurotrophin signaling pathway
+pathway_KEGG,Long-term depression
+pathway_KEGG,Arginine biosynthesis
+pathway_KEGG,Aminoacyl-tRNA biosynthesis
+pathway_KEGG,cAMP signaling pathway
+pathway_KEGG,Apelin signaling pathway
+pathway_KEGG,Insulin secretion
+pathway_KEGG,Amphetamine addiction
+pathway_KEGG,Type II diabetes mellitus
+pathway_KEGG,DNA replication
+pathway_KEGG,Lysine degradation
+pathway_KEGG,Colorectal cancer
+pathway_KEGG,Progesterone-mediated oocyte maturation
+pathway_KEGG,Tight junction
+pathway_KEGG,Insulin resistance
+pathway_KEGG,Purine metabolism
+pathway_KEGG,Ovarian steroidogenesis
+pathway_KEGG,Glucagon signaling pathway
+pathway_KEGG,Serotonergic synapse
+pathway_KEGG,Protein digestion and absorption
+pathway_KEGG,Morphine addiction
+pathway_KEGG,Glycolysis / Gluconeogenesis
+pathway_KEGG,Renin secretion
+pathway_KEGG,Adrenergic signaling in cardiomyocytes
+pathway_KEGG,Cocaine addiction
+pathway_KEGG,Vitamin B6 metabolism
+pathway_KEGG,Dilated cardiomyopathy (DCM)
+pathway_KEGG,Carbon metabolism
+pathway_KEGG,Calcium signaling pathway
+pathway_KEGG,Thyroid hormone signaling pathway
+pathway_KEGG,Fatty acid biosynthesis
+pathway_KEGG,Parathyroid hormone synthesis, secretion and action
+pathway_KEGG,RNA degradation
+pathway_KEGG,ABC transporters
+pathway_KEGG,Pantothenate and CoA biosynthesis
+pathway_KEGG,Carbohydrate digestion and absorption
+pathway_KEGG,Fatty acid metabolism
+pathway_KEGG,TGF-beta signaling pathway
+pathway_KEGG,Adipocytokine signaling pathway
+pathway_KEGG,Mitophagy
+pathway_KEGG,Tryptophan metabolism
+pathway_KEGG,Alanine, aspartate and glutamate metabolism
+pathway_KEGG,Circadian entrainment
+pathway_KEGG,Starch and sucrose metabolism
+pathway_KEGG,Inflammatory mediator regulation of TRP channels
+pathway_KEGG,Fanconi anemia pathway
+pathway_KEGG,cGMP-PKG signaling pathway
+pathway_KEGG,GnRH signaling pathway
+pathway_KEGG,Mismatch repair
+pathway_KEGG,Ether lipid metabolism
+pathway_KEGG,Amino sugar and nucleotide sugar metabolism
+pathway_KEGG,Selenocompound metabolism
+pathway_KEGG,Caffeine metabolism
+pathway_KEGG,Ribosome biogenesis in eukaryotes
+pathway_KEGG,Pentose phosphate pathway
+pathway_KEGG,Glutathione metabolism
+pathway_KEGG,Gastric cancer
+pathway_KEGG,Gap junction
+pathway_KEGG,Arachidonic acid metabolism
+pathway_KEGG,Dopaminergic synapse
+pathway_KEGG,ErbB signaling pathway
+pathway_KEGG,Breast cancer
+pathway_KEGG,Melanogenesis
+pathway_KEGG,Axon guidance
+pathway_KEGG,Riboflavin metabolism
+pathway_KEGG,Cushing syndrome
+pathway_KEGG,Choline metabolism in cancer
+pathway_KEGG,Pyrimidine metabolism
+pathway_KEGG,mRNA surveillance pathway
+pathway_KEGG,Endocytosis
+pathway_KEGG,mTOR signaling pathway
+pathway_KEGG,Cortisol synthesis and secretion
+pathway_KEGG,Oocyte meiosis
+pathway_KEGG,Hepatocellular carcinoma
+pathway_KEGG,Amyotrophic lateral sclerosis (ALS)
+pathway_KEGG,Collecting duct acid secretion
+pathway_KEGG,Circadian rhythm
+pathway_KEGG,Cysteine and methionine metabolism
+pathway_KEGG,Signaling pathways regulating pluripotency of stem cells
+pathway_KEGG,Fatty acid elongation
+pathway_KEGG,Endocrine resistance
+pathway_KEGG,Steroid biosynthesis
+pathway_KEGG,Arginine and proline metabolism
+pathway_KEGG,Autophagy
+pathway_KEGG,Oxytocin signaling pathway
+pathway_KEGG,Wnt signaling pathway
+pathway_KEGG,Renin-angiotensin system
+pathway_KEGG,Mannose type O-glycan biosynthesis
+pathway_KEGG,Platinum drug resistance
+pathway_KEGG,Glutamatergic synapse
+pathway_KEGG,Glycine, serine and threonine metabolism
+pathway_KEGG,Olfactory transduction
+pathway_KEGG,Hedgehog signaling pathway
+pathway_KEGG,Folate biosynthesis
+pathway_KEGG,Notch signaling pathway
+pathway_KEGG,RNA transport
+pathway_KEGG,Cholesterol metabolism
+pathway_KEGG,Long-term potentiation
+pathway_KEGG,Alcoholism
+pathway_KEGG,Other types of O-glycan biosynthesis
+pathway_KEGG,Non-homologous end-joining
+pathway_KEGG,GABAergic synapse
+pathway_KEGG,Neuroactive ligand-receptor interaction
+pathway_KEGG,2-Oxocarboxylic acid metabolism
+pathway_KEGG,Thiamine metabolism
+pathway_KEGG,Biosynthesis of unsaturated fatty acids
+pathway_KEGG,Endometrial cancer
+pathway_KEGG,Vasopressin-regulated water reabsorption
+pathway_KEGG,Nicotinate and nicotinamide metabolism
+pathway_KEGG,Base excision repair
+pathway_KEGG,Thyroid cancer
+pathway_KEGG,Nicotine addiction
+pathway_KEGG,Basal cell carcinoma
+pathway_KEGG,Synaptic vesicle cycle
+pathway_KEGG,Phenylalanine, tyrosine and tryptophan biosynthesis
+pathway_KEGG,Spliceosome
+pathway_KEGG,Glycosaminoglycan degradation
+pathway_KEGG,Basal transcription factors
+pathway_KEGG,Nucleotide excision repair
+pathway_KEGG,D-Glutamine and D-glutamate metabolism
