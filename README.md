@@ -7,11 +7,11 @@ Transcriptomic data have been widely used to understand the pathogenesis of infl
 ## Tutorials
 <h3><p align="center">
     <br />
-    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDExplore_tutorial.pdf">IBDExplore  </a>
+    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDExplore_tutorial.pdf">IBDExplore</a>
     
-    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDCompare_tutorial.pdf">IBDCompare  </a>
+    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDCompare_tutorial.pdf">IBDCompare</a>
     
-    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDIntegtate_tutorial.pdf">IBDIntegrate  </a>
+    <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDIntegtate_tutorial.pdf">IBDIntegrate</a>
     
   </p></h3>
 
