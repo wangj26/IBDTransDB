@@ -16,4 +16,4 @@ Transcriptomic data have been widely used to understand the pathogenesis of infl
   </p></h3>
 
 ## Run locally
-IBDTransDB runs in Shinyapps.io server that takes around 1 miniute to initialize each app for the first time access. To reduce the waiting time, users can also download the codes from Github and IBDTransDB database from https://www.icloud.com/iclouddrive/013D9ewhOhNjj-5tErDEWnhow#IBDTransDB and run RShiny locally. This will make analyses much faster.
+IBDTransDB runs in Shinyapps.io server that takes around 1 miniute to initialize each app for the first time access. To reduce the waiting time, users can also download the codes from Github and IBDTransDB database from <a href="https://www.icloud.com/iclouddrive/013D9ewhOhNjj-5tErDEWnhow#IBDTransDB" target="_blank">https://www.icloud.com/iclouddrive/013D9ewhOhNjj-5tErDEWnhow#IBDTransDB</a> and run RShiny locally. This will make analyses much faster.
