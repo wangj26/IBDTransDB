@@ -19,5 +19,5 @@ Transcriptomic data have been widely used to understand the pathogenesis of infl
 IBDTransDB runs in Shinyapps.io server that takes around 1 miniute to initialize each app for the first time access. To avoid any waiting time, users can also download the codes from Github and IBDTransDB database from <a href="https://www.icloud.com/iclouddrive/013D9ewhOhNjj-5tErDEWnhow#IBDTransDB" target="_blank">https://www.icloud.com/iclouddrive/013D9ewhOhNjj-5tErDEWnhow#IBDTransDB</a> and run RShiny locally. This will make analyses much faster. After downloading the codes and database, users should put the database into each module folder and run RShiny in the RStudio.
 
 ## Contract
-Pranav Sahasrabudhe - pranav.sahasrabudhe@abbvie.com
+Pranav Sahasrabudhe - pranav.sahasrabudhe@abbvie.com</br>
 Jing Wang - wang.jing@abbvie.com
