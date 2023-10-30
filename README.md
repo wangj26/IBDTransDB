@@ -5,15 +5,13 @@ Transcriptomic data have been widely used to understand the pathogenesis of infl
 ![alt text](https://github.com/abbviegrc/IBDTransDB/blob/main/IBDTransDB.png?raw=true)
 
 ## The tutorials of IBDExplore, IBDCompare and IBDIntegrate:</br>
-<p align="center">
+<h3><p align="center">
     <br />
     <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDExplore_tutorial.pdf"><strong>IBDExplore »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDCompare_tutorial.pdf">IBDCompare</a>
     ·
     <a href="https://github.com/abbviegrc/IBDTransDB/blob/main/tutorial/IBDIntegtate_tutorial.pdf">IBDIntegrate</a>
     ·
-  </p>
+  </p></h3>
 
 
